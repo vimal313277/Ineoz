@@ -1,0 +1,4836 @@
+@media screen and (min-width:1241px) and (max-width:1500px) {
+	.header .container-one {
+		max-width: 96%;
+		margin: 0 auto;
+	}
+
+	.banner-right,
+	.banner-left {
+		width: 1000px;
+	}
+
+	.banner-head-ctn h2 {
+		font-size: 50px;
+	}
+
+	.banner-ctn {
+		margin: 100px auto 200px;
+	}
+
+	.banner-ctn-ctn p {
+		margin: 15px 0 40px;
+	}
+
+	.gam-tab-main .nav .nav-item {
+		width: 230px;
+		background-size: 100% 100%;
+	}
+
+	.gam-tab-main .nav .nav-item:before {
+		background-size: contain;
+	}
+
+	.banner-bg-img {
+		height: 60em;
+	}
+
+	.box-game-shadow {
+		top: 105px;
+	}
+
+	.game-image img {
+		max-width: 70px;
+	}
+
+	.game-user-name {
+		top: 132px;
+		left: 0;
+		right: 0;
+	}
+
+	.main-box {
+		width: 24%;
+		margin: 0 0.5% 15px;
+	}
+
+	.box-btn-two {
+		left: 0;
+		right: 0;
+		max-width: fit-content;
+		margin: 0 auto;
+	}
+
+	.box-main-image {
+		padding: 0;
+	}
+
+	.box-game-image {
+		width: 95%;
+		margin: 0 auto;
+	}
+
+	.box-btn-three {
+		right: 20px;
+	}
+
+	.high-roller .gam-tab-main .nav .nav-item {
+		width: 230px;
+	}
+
+	.about-slider .slick-list.draggable {
+		padding: 0 200px !important;
+	}
+
+	.about .slider .box {
+		padding: 100px;
+	}
+
+	.game-head h3 {
+		font-size: 32px;
+	}
+
+	.comming-right h4 {
+		font-size: 36px;
+	}
+
+	.comming-right p {
+		margin-right: 0;
+	}
+
+	.comming-right a {
+		margin-top: 50px;
+	}
+
+	.comming-soon {
+		padding: 100px 0;
+	}
+
+	.comming-soon .comming-img img {
+		max-width: 86%;
+	}
+
+	.accordion-all {
+		padding: 80px 0;
+	}
+
+	.acc-head h1 {
+		font-size: 36px;
+		margin-bottom: 40px;
+	}
+
+	.game-head {
+		top: 0;
+		margin-bottom: 50px;
+	}
+
+	.playing-section .text p {
+		max-width: 90%;
+	}
+
+	.playing-section .game-head {
+		margin: 0;
+	}
+
+	.footer .content {
+		padding: 60px 0;
+	}
+
+	.footer .content .box h4 {
+		margin-bottom: 25px;
+	}
+
+	.about {
+		margin: 0;
+		padding: 0;
+	}
+
+	.about .game-head {
+		margin-bottom: -40px;
+	}
+
+	.acc-all {
+		background-size: 100% 100%;
+	}
+
+	.payment-methods {
+		padding: 50px 0;
+	}
+
+	.game-tab-all {
+		margin: 0;
+	}
+
+	.gam-tab-main {
+		padding: 0 0 10px;
+	}
+
+	.high-roller .high-head {
+		margin: 0;
+	}
+
+	/*about-us*/
+
+	.container {
+		width: 96%;
+	}
+
+	.common-header .selected-img {
+		margin-right: 7px;
+	}
+
+	.about-banner {
+		padding: 150px 0 0;
+	}
+
+	.about-banner-cnt h3 {
+		font-size: 56px;
+	}
+
+	.about-banner-cnt {
+		margin: 0 auto 300px;
+	}
+
+	.about-btm h4,
+	.antimony-cnt h4,
+	.responsible-title h4,
+	.newcomers-cnt h2 {
+		font-size: 36px;
+	}
+
+	.about-logo {
+		padding: 25px;
+	}
+
+	.antimony {
+		padding: 200px 0px;
+	}
+
+	.antimony-img {
+		width: 900px;
+		height: auto;
+	}
+
+	.responsible-main .col-lg-3 {
+		-ms-flex: 0 0 33.33%;
+		flex: 0 0 33.33%;
+		max-width: 33.33%;
+	}
+
+	.responsible-main {
+		padding-bottom: 100px;
+	}
+
+	.support-main .newcomers-cnt {
+		max-width: 65% !important;
+		padding: 80px;
+	}
+
+	.support {
+		margin: 0 0 100px;
+	}
+
+	/* Register-step-1 "R" */
+
+	.popup-main .popup-main-box {
+		max-width: 75%;
+	}
+
+	.popup-main .blue-shadow img {
+		height: 23px
+	}
+
+	.popup-main .blue-shadow h5 {
+		margin: 0 40px
+	}
+
+	/* Register-step-2 "R" */
+
+	#popup-main-step-2.popup-main .blue-shadow h5 {
+		margin: 0 20px
+	}
+
+	.popup-main .blue-shadow a img {
+		height: 16px
+	}
+
+	/* Verification screen "R" */
+
+	.verification-popup .popup-box,
+	.game-screen-popup.popup-main .popup-box {
+		max-width: 80%;
+	}
+
+	/* Login Popup */
+
+	#popup-main-login.popup-main .popup-main-box .logo-section {
+		left: 0;
+	}
+
+	/* Customize-Proflie Popup */
+
+	.customize-profile .popup-box {
+		max-width: 85%;
+		width: 42%;
+	}
+
+	.customize-profile .main-box-popup .button a:before {
+		left: 35px;
+		height: 140px;
+	}
+
+	/* Profile-Setting-General */
+
+	.common-header .score-section .wallet {
+		width: 217px;
+		font-size: 11px;
+	}
+
+	.common-header .score-section .score-head h4,
+	.common-header .score-section .scores ul li {
+		font-size: 11px;
+	}
+
+	.common-header .score-section .score-head .icon-img {
+		margin-right: 10px;
+	}
+
+	.common-header .profile-img,
+	.common-header .message-section {
+		padding: 0 15px;
+	}
+
+	.common-header .search-box .input-search {
+		width: 220px;
+	}
+
+	/* Notification Expanded */
+
+	.notification-expanded .today-section .sub-box {
+		padding: 30px 80px;
+	}
+
+	.notification-expanded .close-btn {
+		width: 28px;
+		height: 28px;
+	}
+
+	.notification-expanded .today-section .btn-bg {
+		padding-bottom: 70px
+	}
+
+	/* Contact-Us */
+
+	.contact-title h3 {
+		font-size: 50px;
+	}
+
+	/* Terms & Condition */
+
+	.terms-condition {
+		margin-top: 30px !important;
+	}
+
+	.terms-main {
+		padding: 60px;
+	}
+
+	/* Privacy - Policy */
+
+	.privacy-title {
+		padding: 0 70px;
+	}
+
+	.terms-title h4 {
+		font-size: 36px;
+	}
+}
+
+@media screen and (min-width:1025px) and (max-width:1240px) {
+
+	/* ==== hero section "M" start ==== */
+
+	.banner-btn a:before {
+		width: 58%;
+		height: 107px;
+		top: 5px;
+		left: 15px;
+	}
+
+	.banner-btn a:hover:before {
+		transform: translateX(72%);
+	}
+
+	/* ==== hero section "M" End ==== */
+
+
+	.header .container-one {
+		max-width: 96%;
+		margin: 0 auto;
+	}
+
+	.banner-right,
+	.banner-left {
+		width: 800px;
+	}
+
+	.banner-head-ctn h2 {
+		font-size: 40px;
+	}
+
+	.banner-ctn {
+		margin: 60px auto 120px;
+	}
+
+	.banner-ctn-ctn p {
+		margin: 15px 0 30px;
+		font-size: 16px;
+	}
+
+	.gam-tab-main nav {
+		width: 100%;
+		justify-content: space-between;
+		background-size: 100% 100%;
+	}
+
+	.gam-tab-main .nav .nav-item {
+		width: 180px;
+		background-size: 100% 100%;
+	}
+
+	.gam-tab-main .nav .nav-item:before {
+		background-size: 100% 100%;
+	}
+
+	.banner-bg-img {
+		height: 60em;
+	}
+
+	.box-game-shadow {
+		top: 105px;
+	}
+
+	.game-image img {
+		max-width: 70px;
+	}
+
+	.game-user-name {
+		top: 145px;
+		left: 0;
+		right: 0;
+	}
+
+	.main-box {
+		width: 32.33%;
+		margin: 0 0.5% 15px;
+	}
+
+	.box-btn-two {
+		left: 0;
+		right: 0;
+		max-width: fit-content;
+		margin: 0 auto;
+	}
+
+	.box-main-image {
+		padding: 0;
+	}
+
+	.box-game-image {
+		width: 95%;
+		margin: 0 auto;
+	}
+
+	.box-btn-three {
+		right: 20px;
+	}
+
+	.high-roller .gam-tab-main .nav .nav-item {
+		width: 180px;
+	}
+
+	.about-slider .slick-list.draggable {
+		padding: 0 100px !important;
+	}
+
+	.about .slider .box {
+		padding: 100px;
+	}
+
+	.game-head h3 {
+		font-size: 30px;
+	}
+
+	.comming-right h4 {
+		font-size: 30px;
+	}
+
+	.comming-right p {
+		margin-right: 0;
+	}
+
+	.comming-right a {
+		margin-top: 30px;
+	}
+
+	.comming-soon {
+		padding: 100px 0 0;
+	}
+
+	.accordion-all {
+		padding: 80px 0;
+	}
+
+	.acc-head h1 {
+		font-size: 36px;
+		margin-bottom: 40px;
+	}
+
+	.game-head {
+		top: 0;
+		margin-bottom: 50px;
+	}
+
+	.playing-section .text p {
+		max-width: 90%;
+		margin: 10px auto 20px;
+	}
+
+	.playing-section .game-head {
+		margin: 0;
+	}
+
+	.footer .content {
+		padding: 60px 0 30px;
+		justify-content: flex-start;
+	}
+
+	.footer .content .box h4 {
+		margin-bottom: 20px;
+	}
+
+	.about {
+		margin: 0;
+		padding: 0;
+	}
+
+	.about .game-head {
+		margin-bottom: -40px;
+	}
+
+	.acc-all {
+		background-size: 100% 100%;
+	}
+
+	.payment-methods {
+		padding: 50px 0;
+	}
+
+	.banner-btn a,
+	.popup-main .right-section .submit button,
+	.verification-popup .popup-box .main-box-popup .button a,
+	.customize-profile .main-box-popup .button a,
+	.common-header .score-section .wallet,
+	.left-part .invite-section .content .BUTTON button,
+	.setting-section .head-section .main-setting-section .panel-three .main-box .buttons .submit,
+	.setting-section .head-section .main-setting-section .panel-five form .submit,
+	.setting-section .head-section .main-setting-section .panel-five .submit-btn button,
+	.help-search-main a.btn,
+	.help-find-btn-one.help-yes button,
+	#help-faq .main-help-content .box .button a,
+	.game-screen-banner .create-btn button,
+	.exchange-expanded .swap-btn,
+	.game-screen-popup.popup-main .button a,
+	.home-main .left-user button.button,
+	.right-sidebar .right-user button.button {
+		width: 180px;
+		height: 40px;
+	}
+
+	.header .left-side {
+		margin: 0;
+	}
+
+	.game-tab-all {
+		margin: 0;
+	}
+
+	.gam-tab-main {
+		padding: 0 0 10px;
+	}
+
+	.high-roller .high-head {
+		margin: 0;
+	}
+
+	.about .slick-next {
+		right: 60px;
+	}
+
+	.about .slick-prev {
+		left: 60px;
+	}
+
+	.comming-img {
+		max-width: 700px;
+	}
+
+	.payment-methods .content {
+		padding: 30px !important;
+	}
+
+	.payment-methods .content .image {
+		padding: 0 20px;
+	}
+
+	.playing-section {
+		margin-bottom: -200px;
+	}
+
+	.footer .content .box {
+		width: 33.33%;
+		max-width: 33.33%;
+		padding: 0 15px 30px;
+	}
+
+	.search-box .input-search {
+		width: 280px;
+		background-size: 100% 100%;
+		background-position: center;
+	}
+
+	.box-game-shadow {
+		width: 100%;
+	}
+
+	.box-game-shadow .game-image {
+		margin: 0;
+	}
+
+	/*about-us*/
+
+	.container {
+		width: 96%;
+	}
+
+	.common-header .selected-img {
+		margin-right: 7px;
+	}
+
+	.about-banner {
+		padding: 120px 0 0;
+	}
+
+	.about-banner-cnt h3 {
+		font-size: 50px;
+	}
+
+	.about-banner-cnt {
+		margin: 0 auto 200px;
+	}
+
+	.about-btm h4,
+	.antimony-cnt h4,
+	.responsible-title h4,
+	.newcomers-cnt h2 {
+		font-size: 30px;
+	}
+
+	.about-logo {
+		padding: 15px;
+	}
+
+	.about-logo img {
+		max-height: 20px;
+	}
+
+	.antimony {
+		padding: 150px 0px;
+	}
+
+	.antimony-img {
+		width: 700px;
+		height: auto;
+	}
+
+	.responsible-main .col-lg-3 {
+		-ms-flex: 0 0 33.33%;
+		flex: 0 0 33.33%;
+		max-width: 33.33%;
+		padding: 40px 15px;
+	}
+
+	.responsible-main {
+		padding-bottom: 100px;
+	}
+
+	.support-main .newcomers-cnt {
+		max-width: 75% !important;
+		padding: 60px;
+	}
+
+	.support {
+		margin: 0 0 80px;
+	}
+
+	.antimony .col-lg-5 {
+		-ms-flex: 0 0 55%;
+		flex: 0 0 55%;
+		max-width: 55%;
+	}
+
+	.antimony-cnt p {
+		margin-bottom: 20px;
+		line-height: 1.6;
+	}
+
+	.antimony-img img {
+		transform: scale(1.4);
+	}
+
+	.res-icon {
+		padding: 12px;
+		margin: 0 0 15px;
+	}
+
+	.support-main .banner-btn {
+		margin: 20px 0 0;
+	}
+
+	.common-header .score-section .wallet,
+	.common-header .score-section .score-head,
+	.common-header .scores-main {
+		width: 180px;
+		height: 40px;
+	}
+
+	.common-header .score-section .score-head h4,
+	.common-header .score-section .scores ul li {
+		font-size: 10px;
+	}
+
+	.common-header .search-box .input-search {
+		width: 200px;
+		height: 40px;
+	}
+
+	.common-header .score-section .score-head img {
+		max-width: 40px;
+	}
+
+	.common-header .score-section .score-head {
+		justify-content: center;
+	}
+
+	.common-header .score-section .score-head h4 {
+		margin: 0 5px;
+	}
+
+	.logo img {
+		max-width: 150px;
+	}
+
+	.common-header {
+		padding: 10px 15px;
+	}
+
+	.newcome-title h6 {
+		padding-left: 15px;
+	}
+
+	.footer {
+		padding: 60px 0 0;
+	}
+
+	.common-header .header-main .menu-btn {
+		width: 30px;
+	}
+
+	.common-header .profile-img:before,
+	.common-header .message-section:before,
+	.speaker img {
+		height: 40px;
+	}
+
+	.common-header .profile-img .selected-img img {
+		max-height: 35px;
+	}
+
+	/* Register-step-1 "R" */
+
+	.popup-main .popup-main-box {
+		max-width: 85%;
+	}
+
+	.popup-main .blue-shadow img {
+		height: 23px
+	}
+
+	.popup-main .blue-shadow h5 {
+		margin: 0 40px
+	}
+
+	.popup-main .popup-main-box .close-btn {
+		right: 0;
+		width: 28px;
+		height: 28px;
+	}
+
+	.popup-main .popup-main-box .logo-section {
+		left: -10px
+	}
+
+	.popup-main .popup-main-box .left-section .text.banner-head-ctn h4 span {
+		font-size: 36px
+	}
+
+	.popup-main .popup-main-box .left-section .text.banner-head-ctn h5 {
+		font-size: 17px
+	}
+
+	.popup-main .right-section h4 {
+		font-size: 18px
+	}
+
+	.popup-main .right-section .submit button {
+		width: 45%;
+		height: 40px;
+	}
+
+	.popup-main .right-section .submit button:before {
+		height: 90px
+	}
+
+	.popup-main .right-section .eye:after,
+	.popup-main .right-section .user:after,
+	.popup-main .right-section .mail:after,
+	.popup-main .right-section .arrow-down:after,
+	.popup-main .right-section .arrow-down-two:after,
+	.customize-profile .main-box-popup .user:after {
+		width: 14px;
+		height: 12px;
+	}
+
+	.popup-main .right-section .arrow-down-two:after {
+		left: 27%;
+	}
+
+	.popup-main .right-section .submit:before {
+		top: 15px;
+	}
+
+	.popup-main .right-section .social-icon .icons img {
+		width: 80%;
+	}
+
+	.popup-main .right-section .social-icon .icons a {
+		margin: 0 -10px
+	}
+
+	.popup-main .right-section .box input,
+	.popup-main .right-section .box select {
+		padding: 12px 55px 12px 35px
+	}
+
+	.popup-main .right-section .sub-box input,
+	.popup-main .right-section .sub-box select {
+		padding-right: 30px !important;
+	}
+
+	/* Register-step-2 "R" */
+
+	#popup-main-step-2.popup-main .blue-shadow h5 {
+		margin: 0 20px
+	}
+
+	.popup-main .blue-shadow a img {
+		height: 16px
+	}
+
+	.popup-main .popup-main-box-two .terms-and-conditions .title h5 {
+		font-size: 11px;
+	}
+
+	.popup-main .popup-main-box-two .terms-and-conditions .boxes tr td,
+	.popup-main .popup-main-box-two .terms-and-conditions .boxes tr th,
+	.popup-main .popup-main-box-two .terms-and-conditions .content p {
+		font-size: 14px;
+	}
+
+	/* Verification screen "R" */
+
+	.verification-popup .popup-box,
+	.game-screen-popup.popup-main .popup-box {
+		max-width: 80%;
+	}
+
+	.verification-popup .popup-box .main-box-popup .button a {
+		width: 29%;
+		height: 52px;
+		font-size: 13px;
+	}
+
+	.verification-popup .popup-box .main-box-popup .button a:before {
+		height: 140px;
+	}
+
+	.verification-popup .popup-box .main-popup-section h4 {
+		font-size: 36px;
+	}
+
+	.verification-popup .popup-box .main-popup-section p {
+		font-size: 15px;
+	}
+
+	.verification-popup .popup-box .main-popup-section:after {
+		right: -43%;
+	}
+
+	.verification-popup .popup-box .main-popup-section:before {
+		left: -43%;
+	}
+
+	/* Login Popup */
+
+	#popup-main-login.popup-main .popup-main-box .logo-section {
+		left: 0;
+	}
+
+	/* Customize-Proflie Popup */
+
+	.customize-profile .popup-box {
+		max-width: 90%;
+		width: 52%;
+	}
+
+	.customize-profile .main-box-popup .button a:before {
+		left: 35px;
+		height: 140px;
+	}
+
+	.customize-profile .main-box-popup .button:before {
+		background-position: center center;
+		background-size: 120% 70%;
+		top: 6px;
+	}
+
+	.customize-profile .popup-box input {
+		padding: 12px 75px 12px 35px;
+	}
+
+	/* Notification Expanded */
+
+	.notification-expanded .today-section .sub-box {
+		padding: 30px 80px;
+	}
+
+	.notification-expanded .today-section .btn-bg {
+		padding-bottom: 70px
+	}
+
+	#notification-expanded {
+		overflow: hidden;
+		padding: 70px 0
+	}
+
+	.notification-expanded .today-section .box .sub-box .gradient-text h4 {
+		font-size: 20px;
+	}
+
+	.notification-expanded .notification-content .sub-box-two h5 {
+		padding-bottom: 5px;
+		font-size: 15px;
+	}
+
+	.notification-expanded .today-section .box .head-text h5 {
+		font-size: 12px;
+	}
+
+	.notification-expanded .notification-content .accept-buttons button {
+		height: 40px;
+		font-size: 13px;
+	}
+
+	.notification-expanded .today-section .box .head-text {
+		padding-bottom: 30px;
+	}
+
+	.notification-expanded .main-section .check-btn:before {
+		height: 100px;
+	}
+
+	.notification-expanded .today-section .blue-active-shadow {
+		width: 26px;
+	}
+
+	.notification-expanded .today-section .blue-active-shadow img {
+		height: 43px;
+		width: 100%
+	}
+
+	/* Contact-Us */
+
+	.contact-title h3 {
+		font-size: 45px;
+	}
+
+	.contact-page {
+		padding: 80px 0 150px;
+	}
+
+	.contact-form {
+		max-width: 720px;
+		padding: 50px 55px;
+	}
+
+	.login-btn {
+		bottom: 40px;
+	}
+
+	/* Terms & Condition */
+
+	.terms-condition {
+		margin-top: 10px !important;
+		width: 97% !important;
+	}
+
+	.terms-main {
+		padding: 50px 30px;
+	}
+
+	.terms-title h4 {
+		font-size: 28px;
+		margin-top: 2px !important
+	}
+
+	.terms-main p {
+		font-size: 16px;
+		max-width: 90%;
+	}
+
+	.terms-main>ol>li:before {
+		left: 15px;
+	}
+
+	/* Privacy - Policy */
+
+	.privacy-title {
+		padding: 0 30px;
+	}
+
+	.terms-main ol li {
+		font-size: 16px;
+	}
+
+	.privacy-left h6 {
+		font-size: 14px;
+	}
+
+	.privacy-left p {
+		font-size: 15px;
+	}
+
+
+}
+
+@media screen and (min-width:992px) and (max-width:1024px) {
+	.header .container-one {
+		max-width: 96%;
+		margin: 0 auto;
+	}
+
+	.banner-right,
+	.banner-left {
+		width: 800px;
+	}
+
+	.banner-head-ctn h2 {
+		font-size: 40px;
+	}
+
+	.banner-ctn {
+		margin: 60px auto 120px;
+	}
+
+	.banner-ctn-ctn p {
+		margin: 15px 0 30px;
+		font-size: 16px;
+	}
+
+	.gam-tab-main nav {
+		width: 100%;
+		justify-content: space-between;
+		background-size: 100% 100%;
+	}
+
+	.gam-tab-main .nav .nav-item {
+		width: 180px;
+		background-size: 100% 100%;
+	}
+
+	.gam-tab-main .nav .nav-item:before {
+		background-size: 100% 100%;
+	}
+
+	.banner-bg-img {
+		height: 60em;
+	}
+
+	.box-game-shadow {
+		top: 105px;
+	}
+
+	.game-image img {
+		max-width: 70px;
+	}
+
+	.game-user-name {
+		top: 145px;
+		left: 0;
+		right: 0;
+	}
+
+	.main-box {
+		width: 32.33%;
+		margin: 0 0.5% 15px;
+	}
+
+	.box-btn-two {
+		left: 0;
+		right: 0;
+		max-width: fit-content;
+		margin: 0 auto;
+	}
+
+	.box-main-image {
+		padding: 0;
+	}
+
+	.box-game-image {
+		width: 95%;
+		margin: 0 auto;
+	}
+
+	.box-btn-three {
+		right: 20px;
+	}
+
+	.high-roller .gam-tab-main .nav .nav-item {
+		width: 180px;
+	}
+
+	.about-slider .slick-list.draggable {
+		padding: 0 100px !important;
+	}
+
+	.about .slider .box {
+		padding: 100px;
+	}
+
+	.game-head h3 {
+		font-size: 30px;
+	}
+
+	.comming-right h4 {
+		font-size: 30px;
+	}
+
+	.comming-right p {
+		margin-right: 0;
+	}
+
+	.comming-right a {
+		margin-top: 30px;
+	}
+
+	.comming-soon {
+		padding: 100px 0 0;
+	}
+
+	.accordion-all {
+		padding: 80px 0;
+	}
+
+	.acc-head h1 {
+		font-size: 36px;
+		margin-bottom: 40px;
+	}
+
+	.game-head {
+		top: 0;
+		margin-bottom: 50px;
+	}
+
+	.playing-section .text p {
+		max-width: 90%;
+		margin: 10px auto 20px;
+	}
+
+	.playing-section .game-head {
+		margin: 0;
+	}
+
+	.footer .content {
+		padding: 60px 0 30px;
+		justify-content: flex-start;
+	}
+
+	.footer .content .box h4 {
+		margin-bottom: 20px;
+	}
+
+	.about {
+		margin: 0;
+		padding: 0;
+	}
+
+	.about .game-head {
+		margin-bottom: -40px;
+	}
+
+	.acc-all {
+		background-size: 100% 100%;
+	}
+
+	.payment-methods {
+		padding: 50px 0;
+	}
+
+	.banner-btn a,
+	.popup-main .right-section .submit button,
+	.verification-popup .popup-box .main-box-popup .button a,
+	.customize-profile .main-box-popup .button a,
+	.common-header .score-section .wallet,
+	.left-part .invite-section .content .BUTTON button,
+	.setting-section .head-section .main-setting-section .panel-three .main-box .buttons .submit,
+	.setting-section .head-section .main-setting-section .panel-five form .submit,
+	.setting-section .head-section .main-setting-section .panel-five .submit-btn button,
+	.help-search-main a.btn,
+	.help-find-btn-one.help-yes button,
+	#help-faq .main-help-content .box .button a,
+	.game-screen-banner .create-btn button,
+	.exchange-expanded .swap-btn,
+	.game-screen-popup.popup-main .button a,
+	.home-main .left-user button.button,
+	.right-sidebar .right-user button.button {
+		width: 280px;
+		height: 60px;
+	}
+
+	.header .left-side {
+		margin: 0;
+	}
+
+	.game-tab-all {
+		margin: 0;
+	}
+
+	.gam-tab-main {
+		padding: 0 0 10px;
+	}
+
+	.high-roller .high-head {
+		margin: 0;
+	}
+
+	.about .slick-next {
+		right: 60px;
+	}
+
+	.about .slick-prev {
+		left: 60px;
+	}
+
+	.comming-img {
+		max-width: 700px;
+	}
+
+	.payment-methods .content {
+		padding: 30px !important;
+	}
+
+	.payment-methods .content .image {
+		padding: 0 20px;
+	}
+
+	.playing-section {
+		margin-bottom: -200px;
+	}
+
+	.footer .content .box {
+		width: 33.33%;
+		max-width: 33.33%;
+		padding: 0 15px 30px;
+	}
+
+	.search-box .input-search {
+		width: 280px;
+		background-size: 100% 100%;
+		background-position: center;
+		margin: 0;
+	}
+
+	.footer {
+		padding: 60px 0 0;
+	}
+
+	.header-login a,
+	.header-register a {
+		width: 200px;
+		height: 40px;
+		background-size: 100% 100%;
+	}
+
+	.header-menu {
+		justify-content: space-between;
+	}
+
+	.box-game-shadow {
+		width: 100%;
+	}
+
+	.box-game-shadow .game-image {
+		margin: 0;
+	}
+
+	/*about-us*/
+
+	.container {
+		width: 96%;
+	}
+
+	.common-header .selected-img {
+		margin-right: 7px;
+	}
+
+	.about-banner {
+		padding: 120px 0 0;
+	}
+
+	.about-banner-cnt h3 {
+		font-size: 50px;
+	}
+
+	.about-banner-cnt {
+		margin: 0 auto 200px;
+	}
+
+	.about-btm h4,
+	.antimony-cnt h4,
+	.responsible-title h4,
+	.newcomers-cnt h2 {
+		font-size: 30px;
+	}
+
+	.about-logo {
+		padding: 15px;
+	}
+
+	.about-logo img {
+		max-height: 20px;
+	}
+
+	.antimony {
+		padding: 150px 0px;
+	}
+
+	.antimony-img {
+		width: 700px;
+		height: auto;
+	}
+
+	.responsible-main .col-lg-3 {
+		-ms-flex: 0 0 33.33%;
+		flex: 0 0 33.33%;
+		max-width: 33.33%;
+		padding: 40px 15px;
+	}
+
+	.responsible-main {
+		padding-bottom: 100px;
+	}
+
+	.support-main .newcomers-cnt {
+		max-width: 75% !important;
+		padding: 60px;
+	}
+
+	.support {
+		margin: 0 0 80px;
+	}
+
+	.antimony .col-lg-5 {
+		-ms-flex: 0 0 55%;
+		flex: 0 0 55%;
+		max-width: 55%;
+	}
+
+	.antimony-cnt p {
+		margin-bottom: 20px;
+		line-height: 1.6;
+	}
+
+	.antimony-img img {
+		transform: scale(1.4);
+	}
+
+	.res-icon {
+		padding: 12px;
+		margin: 0 0 15px;
+	}
+
+	.support-main .banner-btn {
+		margin: 20px 0 0;
+	}
+
+	.common-header .score-section .wallet,
+	.common-header .score-section .score-head,
+	.common-header .scores-main {
+		width: 170px;
+		height: 35px;
+	}
+
+	.common-header .score-section .score-head h4,
+	.common-header .score-section .scores ul li {
+		font-size: 10px;
+	}
+
+	.common-header .search-box .input-search {
+		width: 200px;
+		height: 40px;
+	}
+
+	.common-header .score-section .score-head img {
+		max-width: 40px;
+	}
+
+	.common-header .score-section .score-head {
+		justify-content: center;
+	}
+
+	.common-header .score-section .score-head h4 {
+		margin: 0 5px;
+	}
+
+	.logo img {
+		max-width: 160px;
+	}
+
+	.common-header {
+		padding: 10px 15px;
+	}
+
+	.newcome-title h6 {
+		padding-left: 15px;
+	}
+
+	.footer {
+		padding: 60px 0 0;
+	}
+
+	.common-header .header-main .menu-btn {
+		width: 30px;
+	}
+
+	.common-header .profile-img:before,
+	.common-header .message-section:before,
+	.speaker img {
+		height: 35px;
+	}
+
+	.common-header .profile-img .selected-img img,
+	.common-header .message-section button img {
+		max-height: 26px;
+	}
+
+	.common-header .profile-img:before,
+	.common-header .message-section:before {
+		width: 100px;
+	}
+
+	.common-header .profile-img {
+		margin-right: 10px;
+	}
+
+	/* Register-step-1 "R" */
+
+	.popup-main .popup-main-box {
+		max-width: 85%;
+		height: max-content
+	}
+
+	.popup-main .blue-shadow img {
+		height: 23px
+	}
+
+	.popup-main .blue-shadow h5 {
+		margin: 0 40px
+	}
+
+	.popup-main .popup-main-box .close-btn {
+		right: 0;
+		width: 28px;
+		height: 28px;
+	}
+
+	.popup-main .popup-main-box .logo-section {
+		left: -10px
+	}
+
+	.popup-main .popup-main-box .left-section .text.banner-head-ctn h4 span {
+		font-size: 36px
+	}
+
+	.popup-main .popup-main-box .left-section .text.banner-head-ctn h5 {
+		font-size: 17px
+	}
+
+	.popup-main .right-section h4 {
+		font-size: 18px
+	}
+
+	.popup-main .right-section .submit button {
+		width: 45%;
+		height: 40px;
+	}
+
+	.popup-main .right-section .submit button:before {
+		height: 90px
+	}
+
+	.popup-main .right-section .eye:after,
+	.popup-main .right-section .user:after,
+	.popup-main .right-section .mail:after,
+	.popup-main .right-section .arrow-down:after,
+	.popup-main .right-section .arrow-down-two:after,
+	.customize-profile .main-box-popup .user:after {
+		width: 12px;
+		height: 10px;
+	}
+
+	.popup-main .right-section .arrow-down-two:after {
+		left: 27%;
+	}
+
+	.popup-main .right-section .submit:before,
+	.customize-profile .main-box-popup .button:before {
+		top: 15px;
+	}
+
+	.popup-main .right-section .social-icon .icons img {
+		width: 80%;
+	}
+
+	.popup-main .right-section .social-icon .icons a {
+		margin: 0 -10px
+	}
+
+	.popup-main .right-section .box input,
+	.popup-main .right-section .box select {
+		padding: 12px 55px 12px 35px
+	}
+
+	.popup-main .right-section .sub-box input,
+	.popup-main .right-section .sub-box select {
+		padding-right: 30px !important;
+	}
+
+	/* Register-step-2 "R" */
+
+	#popup-main-step-2.popup-main .blue-shadow h5 {
+		margin: 0 20px
+	}
+
+	.popup-main .blue-shadow a img {
+		height: 16px
+	}
+
+	.popup-main .popup-main-box-two .terms-and-conditions .title h5 {
+		font-size: 10px;
+		top: 30px;
+	}
+
+	.popup-main .popup-main-box-two .terms-and-conditions .boxes tr td,
+	.popup-main .popup-main-box-two .terms-and-conditions .boxes tr th,
+	.popup-main .popup-main-box-two .terms-and-conditions .content p {
+		font-size: 14px;
+	}
+
+	#popup-main-step-2 .popup-main .optional-box {
+		padding-right: 30px;
+	}
+
+	/* Verification screen "R" */
+
+	.verification-popup .popup-box,
+	.customize-profile .popup-box,
+	.game-screen-popup.popup-main .popup-box {
+		max-width: 80%;
+	}
+
+	.verification-popup .popup-box .main-box-popup .button a {
+		width: 29%;
+		height: 52px;
+		font-size: 13px;
+	}
+
+	.verification-popup .popup-box .main-box-popup .button a:before {
+		height: 140px;
+	}
+
+	.verification-popup .popup-box .main-popup-section h4 {
+		font-size: 36px;
+	}
+
+	.verification-popup .popup-box .main-popup-section p {
+		font-size: 15px;
+	}
+
+	.verification-popup .popup-box .main-popup-section:after {
+		right: -44%;
+	}
+
+	.verification-popup .popup-box .main-popup-section:before {
+		left: -44%;
+	}
+
+	/* Login Popup */
+
+	#popup-main-login.popup-main .popup-main-box .logo-section {
+		left: 0;
+	}
+
+	/* Customize-Proflie Popup */
+
+	.customize-profile .popup-box {
+		max-width: 90%;
+		width: 52%;
+	}
+
+	.customize-profile .main-box-popup .button a:before {
+		left: 35px;
+		height: 140px;
+	}
+
+	.customize-profile .main-box-popup .button:before {
+		background-position: center center;
+		background-size: 120% 70%;
+		top: 6px;
+	}
+
+	.customize-profile .popup-box input {
+		padding: 12px 70px 12px 35px;
+	}
+
+	/* Notification Expanded */
+
+	.notification-expanded .today-section .sub-box {
+		padding: 27px 70px;
+	}
+
+	.notification-expanded .today-section .btn-bg {
+		padding-bottom: 70px
+	}
+
+	#notification-expanded {
+		overflow: hidden;
+		padding: 70px 0
+	}
+
+	.notification-expanded .today-section .box .sub-box .gradient-text h4 {
+		font-size: 20px;
+	}
+
+	.notification-expanded .notification-content .sub-box-two h5 {
+		padding-bottom: 5px;
+		font-size: 15px;
+	}
+
+	.notification-expanded .today-section .box .head-text h5 {
+		font-size: 12px;
+	}
+
+	.notification-expanded .notification-content .accept-buttons button {
+		height: 40px;
+		font-size: 13px;
+		margin: 3px 0;
+	}
+
+	.notification-expanded .today-section .box .head-text {
+		padding-bottom: 30px;
+	}
+
+	.notification-expanded .main-section .check-btn:before {
+		height: 100px;
+	}
+
+	.notification-expanded .login-box .title {
+		font-size: 33px;
+	}
+
+	.notification-expanded .today-section .image {
+		width: 10%;
+	}
+
+	.notification-expanded .today-section .image img {
+		width: 60px;
+		height: auto;
+		object-fit: scale-down;
+	}
+
+	.notification-expanded .main-section .today-section {
+		padding-top: 20px;
+	}
+
+	.notification-expanded .today-section .blue-active-shadow {
+		width: 25px;
+	}
+
+	.notification-expanded .today-section .blue-active-shadow img {
+		height: 43px;
+		width: 100%
+	}
+
+	/* Contact-Us */
+
+	.contact-title h3 {
+		font-size: 45px;
+	}
+
+	.contact-page {
+		padding: 80px 0 150px;
+	}
+
+	.contact-form {
+		max-width: 720px;
+		padding: 50px 55px;
+	}
+
+	.login-btn {
+		bottom: 40px;
+	}
+
+	/* Terms & Condition */
+
+	.terms-condition {
+		width: 97% !important;
+		margin: 10px auto 40px !important;
+	}
+
+	.terms-main {
+		padding: 60px 30px;
+	}
+
+	.terms-title h4 {
+		font-size: 27px;
+		margin-top: 0 !important
+	}
+
+	.terms-main p {
+		font-size: 15px;
+		max-width: 90%;
+	}
+
+	.terms-main>ol>li:before {
+		left: 15px;
+		font-size: 30px;
+	}
+
+	.term-cnt {
+		padding: 35px 30px;
+	}
+
+	.terms-main>ol>li h6 {
+		font-size: 15px;
+		padding-left: 60px
+	}
+
+	.terms-main ol li {
+		font-size: 16px;
+	}
+
+	/* Privacy - Policy */
+
+	.privacy-title {
+		padding: 0 30px;
+	}
+
+	.terms-main ol li {
+		font-size: 16px;
+	}
+
+	.privacy-left h6 {
+		font-size: 14px;
+	}
+
+	.privacy-left p {
+		font-size: 15px;
+	}
+}
+
+@media screen and (min-width:768px) and (max-width:991px) {
+
+	/* ==== "M" recent matches start ==== */
+
+	.high-roller .rollers-score .m-box {
+		justify-content: space-around;
+	}
+
+	/* ==== "M" recent matches End ==== */
+
+
+	.header .container-one {
+		max-width: 96%;
+		margin: 0 auto;
+	}
+
+	.banner-right,
+	.banner-left {
+		width: 550px;
+	}
+
+	.banner-head-ctn h2 {
+		font-size: 30px;
+	}
+
+	.banner-ctn {
+		margin: 40px auto 80px;
+		width: 50%
+	}
+
+	.banner-ctn-ctn p {
+		margin: 15px 0 30px;
+		font-size: 16px;
+		line-height: 1.5;
+	}
+
+	.gam-tab-main nav {
+		width: 100%;
+		justify-content: space-between;
+		background-size: 100% 100%;
+	}
+
+	.gam-tab-main .nav .nav-item {
+		width: 20%;
+		background-size: 100% 100%;
+		font-size: 9px;
+		height: 40px;
+		padding: 10px;
+	}
+
+	.gam-tab-main .nav .nav-item:before {
+		background-size: 100% 100%;
+	}
+
+	.banner-bg-img {
+		height: 60em;
+	}
+
+	.box-game-shadow {
+		top: 140px;
+	}
+
+	.game-image img {
+		max-width: 70px;
+		max-height: 70px;
+		margin: 0;
+	}
+
+	.game-user-name {
+		top: 145px;
+		left: 0;
+		right: 0;
+	}
+
+	.main-box {
+		width: 49%;
+		margin: 0 0.5% 15px;
+	}
+
+	.box-btn-two {
+		left: 0;
+		right: 0;
+		max-width: fit-content;
+		margin: 0 auto;
+	}
+
+	.box-main-image {
+		padding: 0;
+	}
+
+	.box-game-image {
+		width: 85%;
+		margin: 20px auto;
+		left: 0;
+		right: 0;
+	}
+
+	.box-btn-three {
+		right: 25px;
+	}
+
+	.high-roller .gam-tab-main .nav .nav-item {
+		width: 20%;
+		font-size: 10px;
+	}
+
+	.about-slider .slick-list.draggable {
+		padding: 0 15px !important;
+	}
+
+	.about .slider .box {
+		padding: 80px 60px;
+	}
+
+	.game-head h3 {
+		font-size: 22px;
+	}
+
+	.comming-right h4 {
+		font-size: 22px;
+		padding-bottom: 10px;
+	}
+
+	.comming-right p {
+		margin-right: 0;
+		line-height: 1.5;
+	}
+
+	.comming-right a {
+		margin-top: 15px;
+		width: 200px;
+		height: 45px;
+	}
+
+	.comming-soon {
+		padding: 100px 0 0;
+	}
+
+	.accordion-all {
+		padding: 180px 0;
+	}
+
+	.acc-head h1 {
+		font-size: 24px;
+		margin-bottom: 40px;
+	}
+
+	.game-head {
+		top: 0;
+		margin-bottom: 30px;
+	}
+
+	.playing-section .text p {
+		max-width: 90%;
+		margin: 10px auto 20px;
+	}
+
+	.playing-section .game-head {
+		margin: 0;
+	}
+
+	.footer .content {
+		padding: 50px 0 20px;
+		justify-content: flex-start;
+	}
+
+	.footer .content .box h4 {
+		margin-bottom: 15px;
+		font-size: 14px;
+	}
+
+	.about {
+		display: none;
+		margin: 0;
+		padding: 0;
+	}
+
+	.about .game-head {
+		margin-bottom: -40px;
+	}
+
+	.acc-all {
+		background-size: 100% 100%;
+		padding: 25px 0 12px;
+	}
+
+	.payment-methods {
+		padding: 0 0 50px;
+	}
+
+	.banner-btn a,
+	.popup-main .right-section .submit button,
+	.verification-popup .popup-box .main-box-popup .button a,
+	.customize-profile .main-box-popup .button a,
+	.common-header .score-section .wallet,
+	.left-part .invite-section .content .BUTTON button,
+	.setting-section .head-section .main-setting-section .panel-three .main-box .buttons .submit,
+	.setting-section .head-section .main-setting-section .panel-five form .submit,
+	.setting-section .head-section .main-setting-section .panel-five .submit-btn button,
+	.help-search-main a.btn,
+	.help-find-btn-one.help-yes button,
+	#help-faq .main-help-content .box .button a,
+	.game-screen-banner .create-btn button,
+	.exchange-expanded .swap-btn,
+	.game-screen-popup.popup-main .button a,
+	.home-main .left-user button.button,
+	.right-sidebar .right-user button.button {
+		width: 220px;
+		height: 45px;
+		font-size: 11px;
+	}
+
+	.banner-btn a:before,
+	.header-register a:before,
+	.comming-right a:before,
+	.playing-section .text a.btn:before,
+	.popup-main .right-section .submit button:before,
+	.verification-popup .popup-box .main-box-popup .button a:before,
+	.customize-profile .main-box-popup .button a:before,
+	.common-header .score-section .wallet:before,
+	.left-part .invite-section .content .BUTTON button:before,
+	.setting-section .head-section .main-setting-section .panel-three .main-box .buttons .submit:before,
+	.setting-section .head-section .main-setting-section .panel-five form .submit:before,
+	.setting-section .head-section .main-setting-section .panel-five .submit-btn button:before,
+	.notification-expanded .main-section .check-btn:before,
+	.help-search-main a.btn:before,
+	.help-find-btn-one.help-yes button:before,
+	#help-faq .main-help-content .box .button a:before,
+	.game-screen-banner .create-btn button:before,
+	.exchange-expanded .swap-btn:before,
+	.game-screen-popup.popup-main .button a:before,
+	.home-main .left-user button.button:before,
+	.right-sidebar .right-user button.button:before {
+		width: 30%;
+		height: 90px;
+	}
+
+	.header .left-side {
+		margin: 0;
+	}
+
+	.game-tab-all {
+		margin: 0;
+	}
+
+	.gam-tab-main {
+		padding: 0 0 10px;
+	}
+
+	.high-roller .high-head {
+		margin: 0;
+	}
+
+	.about .slick-next {
+		right: 60px;
+	}
+
+	.about .slick-prev {
+		left: 60px;
+	}
+
+	.comming-img {
+		max-width: 500px;
+	}
+
+	.payment-methods .content {
+		padding: 30px !important;
+	}
+
+	.payment-methods .content .image {
+		padding: 0 20px;
+	}
+
+	.playing-section {
+		margin-bottom: -150px;
+	}
+
+	.footer .content .box {
+		width: 33.33%;
+		max-width: 33.33%;
+		padding: 0 15px 30px;
+	}
+
+	.search-box .input-search {
+		width: 230px;
+		background-size: 100% 100%;
+		background-position: center;
+		margin: 0;
+	}
+
+	.footer {
+		padding: 40px 0 0;
+	}
+
+	.header-login a,
+	.header-register a {
+		width: 150px;
+		height: 40px;
+		background-size: 100% 100%;
+	}
+
+	.header-menu {
+		justify-content: space-between;
+	}
+
+	.box-game-shadow {
+		width: 85%;
+		margin: 0 auto;
+		left: 0;
+		right: 0;
+	}
+
+	.box-game-shadow .game-image {
+		margin: 0;
+		text-align: center;
+	}
+
+	.header .mobile-menu-toggle-head {
+		background-size: 100% 100%;
+		width: 80px;
+	}
+
+	.banner-one {
+		padding-top: 100px;
+	}
+
+	.gam-tab-main .nav .nav-item img {
+		width: 10px;
+		height: auto;
+		margin-right: 5px;
+	}
+
+	.game-name h4 {
+		margin: 0;
+	}
+
+	.box-game-shadow .game-name h4 {
+		font-size: 26px;
+	}
+
+	.high-roller .gam-tab-main .nav .nav-item:before {
+		background-size: 100% 100%;
+	}
+
+	.high-hade-name h3 {
+		font-size: 20px;
+	}
+
+	.high-roller .high-head img {
+		margin-right: 15px;
+	}
+
+	.high-roller .rollers-score .m-box .sub-box h4 {
+		font-size: 12px;
+	}
+
+	.about .slider .box p {
+		line-height: 1.5;
+	}
+
+	.about .slider .box .starts img {
+		margin: 10px 5px;
+	}
+
+	.about .slider .box h4 {
+		font-size: 18px;
+		margin-bottom: 15px;
+	}
+
+	.comming-start {
+		height: auto;
+	}
+
+	.acc-all h4 {
+		font-size: 16px;
+		margin: 0;
+	}
+
+	.playing-section .text {
+		margin-top: -160px;
+	}
+
+	.footer .content .box ul li a {
+		line-height: 1;
+		margin: 0 0 10px;
+	}
+
+	.footer .head {
+		padding-bottom: 40px;
+	}
+
+	.acc-ctn-ctn p {
+		padding: 10px 30px;
+		font-size: 14px;
+	}
+
+	.high-roller .rollers-score .m-box .sub-box h5 {
+		margin-left: 5px;
+		font-size: 12px;
+	}
+
+	.high-roller .rollers-score .m-box .sub-box {
+		width: 140px;
+	}
+
+	.high-roller {
+		padding: 60px 0;
+	}
+
+	.high-roller .gam-tab-main {
+		padding-top: 20px;
+	}
+
+	/*about-us*/
+
+	.container {
+		width: 96%;
+	}
+
+	.common-header .selected-img {
+		margin-right: 7px;
+	}
+
+	.about-banner {
+		padding: 60px 0 0;
+	}
+
+	.about-banner-cnt h3 {
+		font-size: 34px;
+	}
+
+	.about-banner-cnt p {
+		font-size: 16px;
+		line-height: 1.6;
+	}
+
+	.about-banner-cnt {
+		margin: 0 auto 150px;
+		max-width: 70%;
+	}
+
+	.about-btm h4,
+	.antimony-cnt h4,
+	.responsible-title h4,
+	.newcomers-cnt h2 {
+		font-size: 24px;
+		margin: 0 0 20px;
+	}
+
+	.about-logo {
+		padding: 10px;
+	}
+
+	.about-logo img {
+		max-height: 16px;
+	}
+
+	.antimony {
+		padding: 80px 0px;
+	}
+
+	.antimony-img {
+		width: 500px;
+		height: auto;
+	}
+
+	.responsible-main .col-lg-3 {
+		-ms-flex: 0 0 35%;
+		flex: 0 0 35%;
+		max-width: 35%;
+		padding: 20px 15px;
+	}
+
+	.responsible-main {
+		padding-bottom: 100px;
+	}
+
+	.support-main .newcomers-cnt {
+		max-width: 75% !important;
+		padding: 40px;
+	}
+
+	.support {
+		margin: 0 0 80px;
+	}
+
+	.antimony .col-lg-5 {
+		-ms-flex: 0 0 55%;
+		flex: 0 0 55%;
+		max-width: 55%;
+	}
+
+	.antimony-cnt p {
+		margin-bottom: 15px;
+		line-height: 1.6;
+		font-size: 16px;
+	}
+
+	.antimony-img img {
+		transform: scale(1.3);
+	}
+
+	.res-icon {
+		padding: 8px;
+		margin: 0 0 15px;
+	}
+
+	.responsible-box h6 {
+		font-size: 14px;
+		margin: 0 0 10px;
+	}
+
+	.responsible-box p {
+		font-size: 14px;
+		margin: 0;
+	}
+
+	.support-main .banner-btn {
+		margin: 20px 0 0;
+	}
+
+	.common-header .score-section .wallet,
+	.common-header .score-section .score-head,
+	.common-header .scores-main {
+		width: 170px;
+		height: 35px;
+	}
+
+	.common-header .score-section .score-head h4,
+	.common-header .score-section .scores ul li {
+		font-size: 10px;
+	}
+
+	.common-header .search-box .input-search {
+		width: 200px;
+		height: 35px;
+	}
+
+	.common-header .score-section .score-head img {
+		max-width: 40px;
+	}
+
+	.common-header .score-section .score-head {
+		justify-content: center;
+	}
+
+	.common-header .score-section .score-head h4 {
+		margin: 0 5px;
+	}
+
+	.logo img {
+		max-width: 160px;
+	}
+
+	.common-header {
+		padding: 10px 15px;
+	}
+
+	.newcome-title h6 {
+		padding-left: 0px;
+	}
+
+	.footer {
+		padding: 60px 0 0;
+	}
+
+	.common-header .header-main .menu-btn {
+		width: 30px;
+	}
+
+	.common-header .profile-img:before,
+	.common-header .message-section:before,
+	.speaker img {
+		height: 35px;
+	}
+
+	.common-header .profile-img .selected-img img,
+	.common-header .message-section button img {
+		max-height: 26px;
+	}
+
+	.common-header .profile-img:before,
+	.common-header .message-section:before {
+		width: 100px;
+	}
+
+	.common-header .profile-img {
+		margin-right: 10px;
+	}
+
+	.common-buttons {
+		display: none !important;
+	}
+
+	.left-part .invite-section .content h4 {
+		font-size: 12px;
+	}
+
+	.res-icon img {
+		max-width: 30px;
+	}
+
+	/* Register-step-1 "R" */
+
+	.popup-main .popup-main-box {
+		max-width: 85%;
+	}
+
+	.popup-main .blue-shadow img {
+		height: 18px
+	}
+
+	.popup-main .blue-shadow h5 {
+		margin: 0 18px
+	}
+
+	.popup-main .blue-shadow {
+		bottom: 2px;
+	}
+
+	.popup-main .popup-main-box .close-btn {
+		right: 0;
+		width: 28px;
+		height: 28px;
+	}
+
+	.popup-main .popup-main-box .logo-section {
+		left: -10px
+	}
+
+	.popup-main .popup-main-box .left-section .text.banner-head-ctn h4 span {
+		font-size: 32px
+	}
+
+	.popup-main .popup-main-box .left-section .text.banner-head-ctn h5 {
+		font-size: 15px
+	}
+
+	.popup-main .right-section h4 {
+		font-size: 16px
+	}
+
+	.popup-main .right-section .submit button {
+		width: 43%;
+		height: 32px;
+		font-size: 9px;
+	}
+
+	.popup-main .right-section .submit button:before {
+		height: 70px;
+		width: 38%;
+	}
+
+	.popup-main .right-section .eye:after,
+	.popup-main .right-section .user:after,
+	.popup-main .right-section .mail:after,
+	.popup-main .right-section .arrow-down:after,
+	.popup-main .right-section .arrow-down-two:after,
+	.customize-profile .main-box-popup .user:after {
+		width: 12px;
+		height: 10px;
+		right: 27px
+	}
+
+	.popup-main .right-section .arrow-down-two:after {
+		left: 24%;
+		right: unset;
+		width: 7px;
+		height: 7px;
+		bottom: 4px
+	}
+
+	.popup-main .right-section .submit:before,
+	.customize-profile .main-box-popup .button:before {
+		top: 11px;
+	}
+
+	.popup-main .right-section .social-icon .icons img {
+		width: 80%;
+	}
+
+	.popup-main .right-section .social-icon .icons a {
+		margin: 0 -10px
+	}
+
+	.popup-main .right-section .box input,
+	.popup-main .right-section .box select,
+	.customize-profile .popup-box input {
+		padding: 9px 45px 9px 25px;
+		font-size: 8px;
+		height: 30px;
+	}
+
+	.popup-main .right-section .sub-box input,
+	.popup-main .right-section .sub-box select {
+		padding-right: 30px !important;
+	}
+
+	.popup-main .popup-main-box .right-section .form-section .box {
+		padding: 4px 0;
+	}
+
+	.popup-main .right-section .box label,
+	.customize-profile .popup-box label {
+		font-size: 10px;
+		padding-left: 25px
+	}
+
+	.popup-main .right-section .username {
+		font-size: 11px !important;
+	}
+
+	.popup-main .optional-box img {
+		width: 30px;
+		padding: 4px 10px;
+	}
+
+	.popup-main .optional-box {
+		font-size: 11px;
+	}
+
+	.popup-main .right-section .log-in-btn h6 {
+		font-size: 12px;
+		margin: 5px 0;
+	}
+
+	.popup-main .right-section .or-section h5 {
+		font-size: 13px;
+	}
+
+	.popup-main .right-section .social-icon h5 {
+		font-size: 11px;
+		margin: 9px 0;
+	}
+
+	.popup-main .right-section .social-icon .icons {
+		margin-bottom: 10px;
+	}
+
+	.popup-main .slick-dots li button {
+		width: 34px;
+	}
+
+	.popup-main .popup-main-box .left-section .slider img {
+		margin: 0 auto 23px;
+	}
+
+	.register-popup .popup-box {
+		height: 87%;
+	}
+
+	/* Register-step-2 "R" */
+
+	#popup-main-step-2.popup-main .blue-shadow h5 {
+		margin: 0 20px;
+		font-size: 14px;
+	}
+
+	.popup-main .blue-shadow a img {
+		height: 14px
+	}
+
+	.popup-main .popup-main-box-two .terms-and-conditions .title h5 {
+		font-size: 10px;
+		top: 15px;
+	}
+
+	.popup-main .popup-main-box-two .terms-and-conditions .boxes tr td,
+	.popup-main .popup-main-box-two .terms-and-conditions .boxes tr th,
+	.popup-main .popup-main-box-two .terms-and-conditions .content p {
+		font-size: 14px;
+	}
+
+	#popup-main-step-2.popup-main .optional-box {
+		padding: 0 10px;
+	}
+
+	#popup-main-step-2.popup-main .popup-main-box-two .terms-and-conditions {
+		padding: 10px 0;
+	}
+
+	.popup-main .popup-main-box-two .terms-and-conditions .text {
+		width: 87%;
+		padding: 0 10px 0 0;
+		top: 60px;
+	}
+
+	#popup-main-step-2.popup-main .popup-main-box {
+		max-width: 91%;
+	}
+
+	.popup-main .popup-main-box-two .terms-and-conditions .content {
+		height: 400px;
+	}
+
+	/* Verification screen "R" */
+
+	.verification-popup .popup-box,
+	.customize-profile .popup-box,
+	.game-screen-popup.popup-main .popup-box {
+		max-width: 90%;
+	}
+
+	.verification-popup .popup-box .main-box-popup .button a {
+		width: 29%;
+		height: 52px;
+		font-size: 13px;
+	}
+
+	.verification-popup .popup-box .main-box-popup .button a:before {
+		height: 121px;
+		width: 42%;
+		left: 8px;
+	}
+
+	.verification-popup .popup-box .main-popup-section h4 {
+		font-size: 30px;
+	}
+
+	.verification-popup .popup-box .main-popup-section p {
+		font-size: 14px;
+	}
+
+	.verification-popup .popup-box .main-popup-section:after {
+		right: -46%;
+	}
+
+	.verification-popup .popup-box .main-popup-section:before {
+		left: -46%;
+	}
+
+	/* Login Popup */
+
+	#popup-main-login.popup-main .popup-main-box .logo-section {
+		left: 0;
+	}
+
+	/* Customize-Proflie Popup */
+
+	.customize-profile .popup-box {
+		max-width: 90%;
+		width: 60%;
+	}
+
+	.customize-profile .main-box-popup .button a:before {
+		left: 35px;
+		height: 140px;
+	}
+
+	.customize-profile .main-box-popup .button:before {
+		background-position: center center;
+		background-size: 120% 70%;
+		top: 6px;
+	}
+
+	.customize-profile .popup-box input {
+		padding: 12px 45px 12px 35px;
+		font-size: 10px;
+		height: 37px;
+	}
+
+	/* Notification Expanded */
+
+	.notification-expanded .today-section .sub-box {
+		padding: 27px 30px;
+	}
+
+	.notification-expanded .today-section .btn-bg {
+		padding-bottom: 70px
+	}
+
+	#notification-expanded {
+		overflow: hidden;
+		padding: 70px 0;
+		display: block;
+	}
+
+	.notification-expanded .today-section .box .sub-box .gradient-text h4 {
+		font-size: 16px;
+	}
+
+	.notification-expanded .notification-content .sub-box-two h5 {
+		padding-bottom: 5px;
+		font-size: 12px;
+	}
+
+	.notification-expanded .today-section .box .head-text h5 {
+		font-size: 12px;
+		width: 140px;
+	}
+
+	.notification-expanded .notification-content .accept-buttons button {
+		height: 30px;
+		font-size: 10px;
+		padding: 7px 40px;
+		margin: 2px 0
+	}
+
+	.notification-expanded .today-section .box .head-text {
+		padding-bottom: 30px;
+		margin-left: 50px;
+	}
+
+	.notification-expanded .main-section .check-btn:before {
+		display: none;
+	}
+
+	.notification-expanded .login-box .title {
+		font-size: 27px;
+		padding-top: 7px;
+	}
+
+	.notification-expanded .today-section .image {
+		width: 10%;
+		margin-bottom: -40px
+	}
+
+	.notification-expanded .today-section .image img {
+		width: 40px;
+		height: auto;
+		object-fit: scale-down;
+	}
+
+	.notification-expanded .main-section .today-section {
+		padding-top: 20px;
+	}
+
+	.notification-expanded .login-box .title img {
+		width: 40px;
+		margin-right: 15px;
+	}
+
+	.notification-expanded .notification-content .sub-box-two p {
+		font-size: 13px;
+	}
+
+	.notification-expanded .today-section .blue-active-shadow {
+		width: 20px;
+	}
+
+	.notification-expanded .today-section .blue-active-shadow img {
+		height: 43px;
+		width: 100%
+	}
+
+	.notification-expanded .main-section .check-btn {
+		font-size: 10px;
+	}
+
+	.notification-expanded .heading .blue-text {
+		font-size: 19px;
+	}
+
+	/* Contact-Us */
+
+	.contact-title h3 {
+		font-size: 37px;
+	}
+
+	.contact-page {
+		padding: 30px 0 50px;
+	}
+
+	.contact-form {
+		max-width: 80%;
+		padding: 50px 30px;
+	}
+
+	.login-btn {
+		bottom: 40px;
+	}
+
+	.contact-title {
+		margin: 0 0 60px;
+	}
+
+	.login-btn button {
+		font-size: 13px;
+	}
+
+	.inp {
+		font-size: 11px;
+	}
+
+	/* Terms & Condition */
+
+	.terms-condition {
+		width: 100% !important;
+		margin: 0 auto 40px !important;
+	}
+
+	.terms-main {
+		padding: 50px 15px 15px;
+	}
+
+	.terms-title h4 {
+		font-size: 19px;
+		margin: 10px 0 0 !important
+	}
+
+	.terms-main p {
+		font-size: 15px;
+		max-width: 90%;
+	}
+
+	.terms-main>ol>li:before {
+		left: 7px;
+		font-size: 30px;
+	}
+
+	.term-cnt {
+		padding: 22px 30px;
+	}
+
+	.terms-main>ol>li h6 {
+		font-size: 14px;
+		padding-left: 50px
+	}
+
+	.terms-main ol li {
+		font-size: 15px;
+	}
+
+	.terms-main ol li ol li {
+		margin-top: 13px;
+	}
+
+	/* Privacy - Policy */
+
+	.privacy-title {
+		padding: 0 15px;
+	}
+
+	.terms-main ol li {
+		font-size: 15px;
+	}
+
+	.privacy-left h6 {
+		font-size: 11px;
+	}
+
+	.privacy-left p {
+		font-size: 12px;
+	}
+
+	.privacy-policy-main .terms-main {
+		padding-top: 30px;
+	}
+
+	.privacy-policy-main .terms-main>ol>li h6 {
+		font-size: 13px;
+	}
+
+	.privacy-policy-main .terms-main ol li ol li span {
+		font-size: 12px;
+	}
+}
+
+@media (max-width: 767px) {
+	.header .container-one {
+		max-width: 96%;
+		margin: 0 auto;
+	}
+
+	.banner-right,
+	.banner-left {
+		width: 350px;
+		top: 60px;
+	}
+
+	.header .left-side {
+		display: none;
+	}
+
+	.header .right-side {
+		margin: 0;
+		width: 100%;
+		justify-content: space-between;
+	}
+
+	.banner-head-ctn h2 {
+		font-size: 24px;
+	}
+
+	.banner-ctn {
+		margin: 30px auto;
+		width: 60%
+	}
+
+	.banner-ctn-ctn p {
+		margin: 10px 0 20px;
+		font-size: 16px;
+		line-height: 1.5;
+	}
+
+	.header-register a h5 {
+		font-size: 10px;
+	}
+
+	.banner-btn a h5 {
+		font-size: 14px;
+	}
+
+	.gam-tab-main nav {
+		display: none;
+		width: 85%;
+		justify-content: space-between;
+		background-size: 100% 100%;
+		padding: 10px 25px !important;
+	}
+
+	.gam-tab-main .nav .nav-item {
+		width: 50%;
+		background-size: 100% 100%;
+		font-size: 9px;
+		height: 40px;
+		padding: 10px;
+	}
+
+	.gam-tab-main .nav .nav-item:before {
+		background-size: 100% 100%;
+	}
+
+	.banner-bg-img {
+		height: 60em;
+	}
+
+	.box-game-shadow {
+		top: 100px;
+	}
+
+	.game-image img {
+		max-width: 60px;
+		max-height: 60px;
+		margin: 0;
+	}
+
+	.game-user-name {
+		bottom: 35px;
+		left: 0;
+		right: 0;
+	}
+
+	.main-box {
+		width: 49%;
+		margin: 0 0.5% 15px;
+	}
+
+	.box-btn-two {
+		left: 0;
+		right: 0;
+		max-width: fit-content;
+		margin: 0 auto;
+	}
+
+	.box-main-image {
+		padding: 0;
+	}
+
+	.box-game-image {
+		width: 85%;
+		margin: 10px auto;
+		left: 0;
+		right: 0;
+	}
+
+	.box-btn-three {
+		right: 15px;
+	}
+
+	.high-roller .gam-tab-main .nav .nav-item {
+		width: 20%;
+		font-size: 10px;
+	}
+
+	.about-slider .slick-list.draggable {
+		padding: 0 15px !important;
+	}
+
+	.about .slider .box {
+		padding: 80px 60px;
+	}
+
+	.game-head h3 {
+		font-size: 22px;
+	}
+
+	.comming-right h4 {
+		font-size: 22px;
+		padding-bottom: 10px;
+	}
+
+	.comming-right p {
+		margin-right: 0;
+		line-height: 1.5;
+	}
+
+	.comming-right a {
+		margin-top: 15px;
+		width: 200px;
+		height: 45px;
+	}
+
+	.comming-soon {
+		padding: 0px 0 0;
+		flex-wrap: wrap-reverse;
+	}
+
+	.accordion-all {
+		padding: 0px 0 50px;
+	}
+
+	.acc-head h1 {
+		font-size: 24px;
+		margin-bottom: 40px;
+	}
+
+	.game-head {
+		top: 0;
+		margin-bottom: 30px;
+	}
+
+	.playing-section .text p {
+		max-width: 100%;
+		margin: 10px auto 20px;
+		font-size: 16px;
+		line-height: 1.5;
+	}
+
+	.playing-section .game-head {
+		margin: 0;
+	}
+
+	.footer .content {
+		padding: 50px 0 20px;
+		justify-content: flex-start;
+	}
+
+	.footer .content .box h4 {
+		margin-bottom: 15px;
+		font-size: 14px;
+	}
+
+	.about {
+		margin: 0;
+		padding: 0;
+	}
+
+	.about .game-head {
+		margin-bottom: -40px;
+	}
+
+	.acc-all {
+		background-size: 100% 100%;
+		padding: 25px 0 12px;
+	}
+
+	.payment-methods {
+		padding: 0 0 0px;
+	}
+
+	.banner-btn a,
+	.popup-main .right-section .submit button,
+	.verification-popup .popup-box .main-box-popup .button a,
+	.customize-profile .main-box-popup .button a,
+	.common-header .score-section .wallet,
+	.left-part .invite-section .content .BUTTON button,
+	.setting-section .head-section .main-setting-section .panel-three .main-box .buttons .submit,
+	.setting-section .head-section .main-setting-section .panel-five form .submit,
+	.setting-section .head-section .main-setting-section .panel-five .submit-btn button,
+	.help-search-main a.btn,
+	.help-find-btn-one.help-yes button,
+	#help-faq .main-help-content .box .button a,
+	.game-screen-banner .create-btn button,
+	.exchange-expanded .swap-btn,
+	.game-screen-popup.popup-main .button a,
+	.home-main .left-user button.button,
+	.right-sidebar .right-user button.button {
+		width: 220px;
+		height: 45px;
+		font-size: 10px;
+	}
+
+	.banner-btn a:before,
+	.header-register a:before,
+	.comming-right a:before,
+	.playing-section .text a.btn:before,
+	.popup-main .right-section .submit button:before,
+	.verification-popup .popup-box .main-box-popup .button a:before,
+	.customize-profile .main-box-popup .button a:before,
+	.common-header .score-section .wallet:before,
+	.left-part .invite-section .content .BUTTON button:before,
+	.setting-section .head-section .main-setting-section .panel-three .main-box .buttons .submit:before,
+	.setting-section .head-section .main-setting-section .panel-five form .submit:before,
+	.setting-section .head-section .main-setting-section .panel-five .submit-btn button:before,
+	.notification-expanded .main-section .check-btn:before,
+	.help-search-main a.btn:before,
+	.help-find-btn-one.help-yes button:before,
+	#help-faq .main-help-content .box .button a:before,
+	.game-screen-banner .create-btn button:before,
+	.exchange-expanded .swap-btn:before,
+	.game-screen-popup.popup-main .button a:before,
+	.home-main .left-user button.button:before,
+	.right-sidebar .right-user button.button:before {
+		width: 30%;
+		height: 90px;
+	}
+
+	.header .left-side {
+		margin: 0;
+	}
+
+	.game-tab-all {
+		margin: 0;
+	}
+
+	.gam-tab-main {
+		padding: 0 0 10px;
+	}
+
+	.high-roller .high-head {
+		margin: 0;
+	}
+
+	.about .slick-next {
+		right: 60px;
+	}
+
+	.about .slick-prev {
+		left: 60px;
+	}
+
+	.comming-img {
+		max-width: 100%;
+		position: unset;
+		margin-top: -40px;
+	}
+
+	.payment-methods .content {
+		padding: 0px !important;
+	}
+
+	.payment-methods .content .image {
+		padding: 0 20px;
+	}
+
+	.playing-section {
+		margin-bottom: 0px;
+		background-position: center;
+	}
+
+	.footer .content .box {
+		width: 49%;
+		max-width: 49%;
+		padding: 0 0px 30px;
+	}
+
+	.search-box .input-search {
+		width: 230px;
+		background-size: 100% 100%;
+		background-position: center;
+		margin: 0;
+	}
+
+	.footer {
+		padding: 40px 0 0;
+	}
+
+	.header-login a,
+	.header-register a {
+		width: 150px;
+		height: 40px;
+		background-size: 100% 100%;
+	}
+
+	.header-menu {
+		justify-content: space-between;
+	}
+
+	.box-game-shadow {
+		width: 85%;
+		margin: 0 auto;
+		left: 0;
+		right: 0;
+	}
+
+	.box-game-shadow .game-image {
+		margin: 0;
+		text-align: center;
+	}
+
+	.header .mobile-menu-toggle-head {
+		background-size: 100% 100%;
+		width: 80px;
+	}
+
+	.banner-one {
+		padding-top: 100px;
+	}
+
+	.gam-tab-main .nav .nav-item img {
+		width: 10px;
+		height: auto;
+		margin-right: 5px;
+	}
+
+	.game-name h4 {
+		margin: 0;
+		font-size: 18px;
+	}
+
+	.box-game-shadow .game-name h4 {
+		font-size: 22px;
+	}
+
+	.high-roller .gam-tab-main .nav .nav-item:before {
+		background-size: 100% 100%;
+	}
+
+	.high-hade-name h3 {
+		font-size: 20px;
+	}
+
+	.high-roller .high-head img {
+		margin-right: 15px;
+		max-width: 50px;
+	}
+
+	.high-roller .rollers-score .m-box .sub-box h4 {
+		font-size: 10px;
+	}
+
+	.about .slider .box p {
+		line-height: 1.5;
+	}
+
+	.about .slider .box .starts img {
+		margin: 10px 5px;
+	}
+
+	.about .slider .box h4 {
+		font-size: 18px;
+		margin-bottom: 15px;
+	}
+
+	.comming-start {
+		height: auto;
+	}
+
+	.acc-all h4 {
+		font-size: 14px;
+		margin: 0;
+	}
+
+	.playing-section .text {
+		margin-top: 0px;
+	}
+
+	.footer .content .box ul li a {
+		line-height: 1;
+		margin: 0 0 10px;
+	}
+
+	.footer .head {
+		padding-bottom: 40px;
+	}
+
+	.acc-ctn-ctn p {
+		padding: 10px 30px;
+		font-size: 14px;
+	}
+
+	.high-roller .rollers-score .m-box .sub-box h5 {
+		margin: 0 5px;
+		font-size: 12px;
+	}
+
+	.high-roller .rollers-score .m-box .sub-box {
+		width: 70px;
+	}
+
+	.high-roller {
+		padding: 60px 0;
+	}
+
+	.high-roller .gam-tab-main {
+		padding-top: 20px;
+	}
+
+	.game-pagination ul {
+		margin-top: 20px;
+	}
+
+	.box-btn-one {
+		left: 15px;
+	}
+
+	.about {
+		display: none;
+	}
+
+	.comming-start .col-lg-6 {
+		-ms-flex: 0 0 100%;
+		flex: 0 0 100%;
+		max-width: 100%;
+	}
+
+	.playing-section {
+		position: relative;
+		z-index: 99;
+		overflow: hidden;
+		padding: 60px 15px;
+	}
+
+	.playing-section .image {
+		position: absolute;
+		width: 100px;
+		height: 150px;
+		left: 0;
+		bottom: 0;
+		z-index: -9;
+	}
+
+	.playing-section .image:last-child {
+		left: unset;
+		right: 0;
+	}
+
+	.playing-section .text a.btn {
+		width: 190px;
+	}
+
+	.footer .logo img {
+		max-width: 200px;
+	}
+
+	.explore-games .game-head {
+		display: none;
+	}
+
+	.explore-games .gam-tab-main .mobile {
+		display: block;
+	}
+
+	.coin-slider .slick-next {
+		right: -50px;
+		background-image: url(../images/slick-arrow2.png);
+		width: 60px;
+		height: 60px;
+		top: 0;
+		background-size: 100% 100%;
+	}
+
+	.coin-slider .slick-prev {
+		left: -50px;
+		background-image: url(../images/slick-arrow1.png);
+		width: 60px;
+		height: 60px;
+		top: 0;
+		background-size: 100% 100%;
+	}
+
+	.high-hade-name {
+		width: auto;
+	}
+
+	.high-roller .rollers-score .m-box .sub-box:first-child,
+	.roller-top .sub-box:first-child {
+		min-width: 180px;
+	}
+
+	.high-roller .rollers-score .m-box .sub-box:last-child,
+	.roller-top .sub-box:last-child {
+		min-width: 120px;
+	}
+
+	.roller-top .sub-box {
+		text-align: center;
+		width: 60px;
+	}
+
+	.high-roller .rollers-score .m-box {
+		padding: 5px 10px;
+	}
+
+	.high-roller .rollers-score .m-box .line:before {
+		left: -15px;
+	}
+
+	.high-roller .rollers-score .m-box .sub-box:first-child.line:before {
+		display: none;
+	}
+
+	.high-roller .rollers-score .m-box .line:after {
+		left: 95%;
+	}
+
+	.high-roller .rollers-score .m-box .sub-box h4 img {
+		margin-right: 5px;
+	}
+
+	.roller-top {
+		margin-top: 30px;
+	}
+
+	.high-roller.mobile {
+		display: block;
+	}
+
+	.high-roller.desktop {
+		display: none;
+	}
+
+	.footer .content {
+		justify-content: space-between;
+	}
+
+	.footer-line span {
+		padding: 15px;
+		font-size: 10px;
+		letter-spacing: 5px;
+	}
+
+	/*about-us*/
+
+	.container {
+		width: 96%;
+	}
+
+	.common-header .selected-img {
+		margin-right: 7px;
+	}
+
+	.about-banner {
+		padding: 60px 0 0;
+	}
+
+	.about-banner-cnt h3 {
+		font-size: 34px;
+	}
+
+	.about-banner-cnt p {
+		font-size: 16px;
+		line-height: 1.6;
+	}
+
+	.about-banner-cnt {
+		margin: 0 auto 150px;
+		max-width: 70%;
+	}
+
+	.about-btm h4,
+	.antimony-cnt h4,
+	.responsible-title h4,
+	.newcomers-cnt h2 {
+		font-size: 24px;
+		margin: 0 0 20px;
+	}
+
+	.about-logo {
+		padding: 10px;
+	}
+
+	.about-logo img {
+		max-height: 20px;
+		margin: 0 auto;
+	}
+
+	.antimony {
+		padding: 80px 0px;
+	}
+
+	.antimony-img {
+		width: 100%;
+		height: auto;
+		position: unset;
+		margin: -100px 0 0;
+	}
+
+	.responsible-main .col-lg-3 {
+		-ms-flex: 0 0 35%;
+		flex: 0 0 35%;
+		max-width: 35%;
+		padding: 20px 15px;
+	}
+
+	.responsible-main {
+		padding-bottom: 100px;
+	}
+
+	.support-main .newcomers-cnt {
+		max-width: 75% !important;
+		padding: 40px;
+	}
+
+	.support {
+		margin: 0 0 80px;
+	}
+
+	.antimony .col-lg-5 {
+		-ms-flex: 0 0 100%;
+		flex: 0 0 100%;
+		max-width: 100%;
+	}
+
+	.antimony-cnt p {
+		margin-bottom: 15px;
+		line-height: 1.6;
+		font-size: 16px;
+	}
+
+	.res-icon {
+		padding: 8px;
+		margin: 0 0 15px;
+	}
+
+	.responsible-box h6 {
+		font-size: 14px;
+		margin: 0 0 10px;
+	}
+
+	.responsible-box p {
+		font-size: 14px;
+		margin: 0;
+	}
+
+	.support-main .banner-btn {
+		margin: 20px 0 0;
+	}
+
+	.common-header .score-section .wallet,
+	.common-header .score-section .score-head,
+	.common-header .scores-main {
+		width: 170px;
+		height: 35px;
+	}
+
+	.common-header .score-section .score-head h4,
+	.common-header .score-section .scores ul li {
+		font-size: 10px;
+	}
+
+	.common-header .search-box .input-search {
+		width: 200px;
+		height: 35px;
+	}
+
+	.common-header .score-section .score-head img {
+		max-width: 40px;
+	}
+
+	.common-header .score-section .score-head {
+		justify-content: center;
+	}
+
+	.common-header .score-section .score-head h4 {
+		margin: 0 5px;
+	}
+
+	.logo img {
+		max-width: 160px;
+	}
+
+	.common-header {
+		padding: 10px 15px;
+	}
+
+	.newcome-title h6 {
+		padding-left: 0px;
+	}
+
+	.footer {
+		padding: 60px 0 0;
+	}
+
+	.common-header .header-main .menu-btn {
+		width: 30px;
+	}
+
+	.common-header .profile-img:before,
+	.common-header .message-section:before,
+	.speaker img {
+		height: 35px;
+	}
+
+	.common-header .profile-img .selected-img img,
+	.common-header .message-section button img {
+		max-height: 26px;
+	}
+
+	.common-header .profile-img:before,
+	.common-header .message-section:before {
+		width: 100px;
+	}
+
+	.common-header .profile-img {
+		margin-right: 10px;
+	}
+
+	.common-buttons {
+		display: none !important;
+	}
+
+	.left-part .invite-section .content h4 {
+		font-size: 12px;
+	}
+
+	.res-icon img {
+		max-width: 30px;
+	}
+
+	.header-main .search-box,
+	.header-main .logo {
+		display: none;
+	}
+
+	.about-btm-main {
+		background-size: cover;
+		background-position: center;
+	}
+
+	/* Register-step-1 "R" */
+
+	.popup-main .popup-main-box {
+		max-width: 90%;
+		margin: 40px auto 0;
+	}
+
+	.popup-main .blue-shadow h5 {
+		margin: 0 18px
+	}
+
+	.popup-main .blue-shadow {
+		bottom: 2px;
+	}
+
+	.popup-main .popup-main-box .close-btn {
+		right: 10px;
+		width: 26px;
+		height: 26px;
+		background-image: url('../images/close-btn-blue.png');
+		background-size: 100% 100%;
+	}
+
+	.popup-main .blue-shadow img,
+	.popup-main .popup-main-box .close-btn:before {
+		display: none;
+	}
+
+	.popup-main .popup-main-box .logo-section {
+		left: -10px;
+		width: 45%
+	}
+
+	.popup-main .popup-main-box .left-section .text.banner-head-ctn h4 span {
+		font-size: 32px
+	}
+
+	.popup-main .popup-main-box .left-section .text.banner-head-ctn h5 {
+		font-size: 15px;
+		margin-bottom: 0
+	}
+
+	.popup-main .right-section h4 {
+		font-size: 20px
+	}
+
+	.popup-main .right-section .submit button {
+		width: 44%;
+		height: 50px;
+		font-size: 15px;
+	}
+
+	.popup-main .right-section .submit button:before {
+		height: 116px;
+		width: 40%;
+		left: 29px
+	}
+
+	.popup-main .right-section .eye:after,
+	.popup-main .right-section .user:after,
+	.popup-main .right-section .mail:after,
+	.popup-main .right-section .arrow-down:after,
+	.popup-main .right-section .arrow-down-two:after,
+	.customize-profile .main-box-popup .user:after {
+		width: 21px;
+		height: 15px;
+		right: 50px
+	}
+
+	.popup-main .right-section .arrow-down-two:after {
+		left: 24%;
+		right: unset;
+		width: 14px;
+		height: 14px;
+		bottom: 0;
+	}
+
+	.popup-main .right-section .submit:before,
+	.customize-profile .main-box-popup .button:before {
+		top: 20px;
+	}
+
+	.popup-main .right-section .box input,
+	.popup-main .right-section .box select,
+	.customize-profile .popup-box input {
+		padding: 9px 75px 9px 50px;
+		font-size: 11px;
+		height: 48px;
+	}
+
+	.popup-main .right-section .sub-box input,
+	.popup-main .right-section .sub-box select {
+		padding-right: 50px !important;
+	}
+
+	.popup-main .popup-main-box .right-section .form-section .box {
+		padding: 10px 0;
+	}
+
+	.popup-main .right-section .box label,
+	.customize-profile .popup-box label {
+		font-size: 13px;
+		padding-left: 46px
+	}
+
+	.popup-main .right-section .username {
+		font-size: 15px !important;
+	}
+
+	.popup-main .optional-box img {
+		width: 40px;
+		padding: 4px 12px;
+	}
+
+	.popup-main .optional-box {
+		font-size: 13px;
+		padding-left: 0
+	}
+
+	.popup-main .right-section .log-in-btn h6 {
+		font-size: 15px;
+		margin: 15px 0 25px;
+	}
+
+	.popup-main .right-section .or-section h5 {
+		font-size: 15px;
+	}
+
+	.popup-main .right-section .social-icon h5 {
+		font-size: 15px;
+		margin: 22px 0;
+	}
+
+	.popup-main .right-section .social-icon .icons {
+		margin-bottom: 10px;
+	}
+
+	.popup-main .slick-dots li button {
+		width: 47px;
+		height: 29px;
+	}
+
+	.popup-main .popup-main-box .left-section .slider img {
+		margin: 0 0 -7px auto;
+		max-height: 340px;
+	}
+
+	.register-popup .popup-box {
+		height: 87%;
+		display: grid;
+	}
+
+	.popup-main .popup-main-box .left-section,
+	.popup-main .popup-main-box .right-section {
+		width: 100%;
+		max-width: 100%;
+	}
+
+	.popup-main .popup-main-box .left-section:before {
+		background-size: cover;
+		background-image: url('../images/left-bg-mobile.png');
+	}
+
+	.popup-main .popup-main-box .left-section {
+		display: flex;
+		align-items: center;
+		text-align: left;
+		padding-left: 20px;
+		padding: 100px 0 100px 20px;
+		margin: 0
+	}
+
+	.popup-main .popup-main-box .left-section .main-slider .slick-list {
+		z-index: -9
+	}
+
+	.popup-main .popup-main-box .right-section:before {
+		background-image: url('../images/right-part-bg-mobile.png');
+	}
+
+	.popup-main .popup-main-box .right-section {
+		margin-top: -30px;
+		padding: 70px 40px
+	}
+
+	.popup-main .slick-dots {
+		z-index: 11;
+		left: 2%;
+		width: max-content;
+		right: unset;
+		bottom: 0;
+	}
+
+	/* Register-step-2 "R" */
+
+	#popup-main-step-2.popup-main .blue-shadow h5 {
+		margin: 0 20px;
+		font-size: 14px;
+	}
+
+	.popup-main .blue-shadow a img {
+		height: 11px;
+		display: inline-block;
+	}
+
+	.popup-main .popup-main-box-two .terms-and-conditions .title h5 {
+		font-size: 12px;
+		top: 11px;
+		left: 20px;
+	}
+
+	.popup-main .popup-main-box-two .terms-and-conditions .boxes tr td,
+	.popup-main .popup-main-box-two .terms-and-conditions .boxes tr th,
+	.popup-main .popup-main-box-two .terms-and-conditions .content p {
+		font-size: 15px;
+	}
+
+	#popup-main-step-2.popup-main .optional-box {
+		padding: 0 10px;
+	}
+
+	#popup-main-step-2.popup-main .popup-main-box-two .terms-and-conditions {
+		padding: 10px 0;
+	}
+
+	.popup-main .popup-main-box-two .terms-and-conditions .text {
+		width: 87%;
+		padding: 0 20px 0 0;
+		top: 60px;
+	}
+
+	.popup-main .popup-main-box-two .terms-and-conditions .content {
+		height: 400px;
+		background-image: url('../images/register-bg-two-mobile.png');
+	}
+
+	.popup-main .popup-main-box-two .terms-and-conditions .content h5 {
+		font-size: 12px;
+	}
+
+	.popup-main .popup-main-box-two .submit {
+		margin-bottom: 0
+	}
+
+	/* Verification screen "R" */
+
+	.verification-popup .popup-box,
+	.customize-profile .popup-box,
+	.game-screen-popup.popup-main .popup-box {
+		max-width: 94%;
+	}
+
+	.verification-popup .popup-box .main-box-popup .button a {
+		width: 29%;
+		height: 52px;
+		font-size: 13px;
+	}
+
+	.verification-popup .popup-box .main-box-popup .button a:before {
+		height: 121px;
+		width: 42%;
+		left: 8px;
+	}
+
+	.verification-popup .popup-box .main-popup-section h4 {
+		font-size: 30px;
+	}
+
+	.verification-popup .popup-box .main-popup-section p {
+		font-size: 14px;
+	}
+
+	.verification-popup .popup-box .main-popup-section:after {
+		right: -46%;
+	}
+
+	.verification-popup .popup-box .main-popup-section:before {
+		left: -46%;
+	}
+
+	/* Login Popup */
+
+	#popup-main-login.popup-main .popup-main-box .logo-section {
+		left: 0;
+	}
+
+	#popup-main-login.popup-main-login .login-box {
+		display: grid;
+	}
+
+	.popup-main.popup-main-login {
+		overflow-y: auto;
+		height: 108vh
+	}
+
+	.popup-main .popup-main-box-three.popup-main-box {
+		height: auto !important;
+		margin-top: 80px;
+	}
+
+	#popup-main-login.popup-main .popup-main-box .left-section:before {
+		background-image: url('../images/login-left-bg-mobile.png');
+	}
+
+	.popup-main-login .main-slider {
+		display: block;
+	}
+
+	#popup-main-login.popup-main .popup-main-box .left-section {
+		padding: 130px 0 130px 20px;
+	}
+
+	#popup-main-login.popup-main .popup-main-box .right-section:before {
+		background-image: url('../images/right-part-bg-login-mobile.png');
+	}
+
+	/* Customize-Proflie Popup */
+
+	.customize-profile .popup-box {
+		max-width: 90%;
+		width: 60%;
+	}
+
+	.customize-profile .main-box-popup .button a:before {
+		left: 25px;
+		height: 110px;
+		width: 33%;
+	}
+
+	.customize-profile .main-box-popup .button:before {
+		background-position: center center;
+		background-size: 120% 70%;
+		top: 6px;
+	}
+
+	.customize-profile .popup-box input {
+		padding: 12px 70px 12px 35px;
+		font-size: 10px;
+		height: 43px;
+	}
+
+	.customize-profile .main-box-popup .button a {
+		font-size: 11px;
+	}
+
+	/* Notification Expanded */
+
+	.notification-expanded .today-section .sub-box {
+		padding: 27px 30px;
+		background-image: url('../images/notification-box-bg-mobile.png');
+	}
+
+	.notification-expanded .today-section .btn-bg {
+		padding-bottom: 70px !important
+	}
+
+	#notification-expanded {
+		overflow: hidden;
+		padding: 70px 0;
+		display: block;
+	}
+
+	.notification-expanded .today-section .box .sub-box .gradient-text h4 {
+		font-size: 16px;
+	}
+
+	.notification-expanded .notification-content .sub-box-two h5 {
+		padding-bottom: 5px;
+		font-size: 12px;
+	}
+
+	.notification-expanded .today-section .box .head-text h5 {
+		font-size: 12px;
+		width: 140px;
+	}
+
+	.notification-expanded .notification-content .accept-buttons button {
+		height: 40px;
+		font-size: 12px;
+		padding: 7px 40px;
+		margin: 2px 0;
+		width: 50%;
+	}
+
+	.notification-expanded .today-section .box .head-text {
+		padding-bottom: 30px;
+		margin-left: 70px;
+	}
+
+	.notification-expanded .login-box .title {
+		font-size: 25px;
+		padding-top: 6px;
+	}
+
+	.notification-expanded .today-section .image {
+		width: 12%;
+		margin-bottom: -25px;
+		height: 60px;
+	}
+
+	.notification-expanded .today-section .image img {
+		width: 40px;
+		height: -webkit-fill-available;
+		object-fit: scale-down;
+	}
+
+	.notification-expanded .main-section .today-section {
+		padding-top: 20px;
+	}
+
+	.notification-expanded .login-box .title img {
+		width: 20px;
+		margin-right: 3px;
+	}
+
+	.notification-expanded .notification-content .sub-box-two p {
+		font-size: 13px;
+		padding-right: 0
+	}
+
+	.notification-expanded .today-section .blue-active-shadow {
+		width: 26px;
+	}
+
+	.notification-expanded .today-section .blue-active-shadow img {
+		height: 26px;
+		width: 100%
+	}
+
+	.notification-expanded .main-section .check-btn {
+		font-size: 10px;
+		width: 46%;
+		left: 12%;
+		right: unset;
+		height: 41px;
+	}
+
+	.notification-expanded .heading .blue-text {
+		font-size: 19px;
+	}
+
+	.notification-expanded {
+		display: block !important;
+	}
+
+	.notification-expanded.popup-main .popup-main-box-three.popup-main-box {
+		margin-top: 0
+	}
+
+	.notification-expanded .main-section .notification-all {
+		height: 380px;
+		margin: 33px 15px 22px 15px;
+		padding-right: 15px;
+	}
+
+	.notification-expanded .notification-content {
+		display: block;
+	}
+
+	.notification-expanded .notification-content .accept-buttons {
+		display: flex;
+		margin-top: 10px;
+		flex-wrap: wrap;
+	}
+
+	.notification-expanded .sub-box .close-btn {
+		width: 18px !important;
+		height: 18px !important;
+	}
+
+	.notification-expanded .today-section .btn-bg {
+		background-image: url('../images/notification-box-bg-2-moblie.png');
+	}
+
+	.notification-expanded .today-section .head h4 {
+		font-size: 12px;
+		height: 42px;
+		padding-left: 17px;
+	}
+
+	.notification-expanded .today-section .box {
+		margin: 20px 0
+	}
+
+	/* Contact-Us */
+
+	.contact-title h3 {
+		font-size: 37px;
+	}
+
+	.contact-page {
+		padding: 30px 0 50px;
+	}
+
+	.contact-form {
+		max-width: 90%;
+		padding: 50px 30px;
+	}
+
+	.login-btn {
+		bottom: 40px;
+	}
+
+	.contact-title {
+		margin: 0 0 60px;
+	}
+
+	.login-btn button {
+		font-size: 13px;
+		width: 33%;
+	}
+
+	.inp {
+		font-size: 11px;
+	}
+
+	.contact-us-page .left-part {
+		display: none;
+	}
+
+	/* Terms & Condition */
+
+	.terms-condition {
+		width: 100% !important;
+		margin: 40px auto 40px !important;
+		background-image: url('../images/terms-back-mobile.png') !important;
+	}
+
+	.terms-main {
+		padding: 50px 15px 15px;
+	}
+
+	.terms-title h4 {
+		font-size: 30px;
+		margin: -50px auto 0 !important;
+		max-width: 59%;
+	}
+
+	.terms-main p {
+		font-size: 15px;
+		max-width: 90%;
+	}
+
+	.terms-main>ol>li:before {
+		left: 5px;
+		font-size: 30px;
+		top: -7px;
+	}
+
+	.term-cnt {
+		padding: 22px 30px;
+	}
+
+	.terms-main>ol>li h6 {
+		font-size: 14px;
+		padding-left: 70px
+	}
+
+	.terms-main ol li ol li {
+		margin-top: 13px;
+		font-size: 14px;
+	}
+
+	.terms-main ol li.wow {
+		font-size: 15px;
+		background-image: url('../images/terms-img1-mobile.png') !important;
+	}
+
+	.terms-main ol li.wow:nth-child(2) {
+		background-image: url('../images/terms-img2-mobile.png') !important;
+	}
+
+	.terms-main ol li.wow:nth-child(3) {
+		background-image: url('../images/terms-img3-mobile.png') !important;
+	}
+
+	.terms-main ol li.wow:nth-child(4) {
+		background-image: url('../images/terms-img4-mobile.png') !important;
+	}
+
+	.terms-main ol li.wow:nth-child(5) {
+		background-image: url('../images/terms-img5-mobile.png') !important;
+	}
+
+	.terms-main ol li.wow:nth-child(6) {
+		background-image: url('../images/terms-img6-mobile.png') !important;
+	}
+
+	.terms-main ol li.wow:nth-child(7) {
+		background-image: url('../images/terms-img7-mobile.png') !important;
+	}
+
+	.terms-main ol li.wow:nth-child(8) {
+		background-image: url('../images/terms-img8-mobile.png') !important;
+	}
+
+	/* Privacy - Policy */
+
+	.privacy-title {
+		padding: 10px 25px 0px;
+	}
+
+	.terms-main ol li {
+		font-size: 15px;
+	}
+
+	.privacy-left h6 {
+		font-size: 11px;
+	}
+
+	.privacy-left p {
+		font-size: 11px;
+	}
+
+	.privacy-policy-main .terms-main {
+		padding-top: 30px;
+	}
+
+	.privacy-policy-main .terms-main>ol>li h6 {
+		font-size: 13px;
+	}
+
+	.privacy-policy-main .terms-main ol li ol li span {
+		font-size: 12px;
+	}
+
+	.privacy-policy-main .terms-title h4 {
+		max-width: 100%;
+		margin-top: -30px !important;
+	}
+
+	.privacy-policy-main .terms-main ol li.wow {
+		font-size: 15px;
+		background-image: url('../images/privacy-box1-mobile.png') !important;
+	}
+
+	.privacy-policy-main .terms-main ol li.wow:nth-child(2) {
+		background-image: url('../images/privacy-box2-mobile.png') !important;
+	}
+
+	.privacy-policy-main .terms-main ol li.wow:nth-child(3) {
+		background-image: url('../images/privacy-box3-mobile.png') !important;
+	}
+
+	.privacy-policy-main .terms-main ol li.wow:nth-child(4) {
+		background-image: url('../images/privacy-box4-mobile.png') !important;
+	}
+
+	.privacy-policy-main .terms-main ol li.wow:nth-child(5) {
+		background-image: url('../images/privacy-box5-mobile.png') !important;
+	}
+
+	.privacy-policy-main .terms-main ol li.wow:nth-child(6) {
+		background-image: url('../images/privacy-box6-mobile.png') !important;
+	}
+
+	.privacy-policy-main .terms-main ol li.wow:nth-child(7) {
+		background-image: url('../images/privacy-box7-mobile.png') !important;
+	}
+}
+
+
+
+@media screen and (max-width:575px) {
+	.acc-all h4 {
+		font-size: 12px;
+	}
+
+	.box-game-shadow {
+		top: 85px;
+	}
+
+	.game-user-name {
+		bottom: 25px;
+	}
+
+	.box-btn-three {
+		right: 5px;
+		bottom: 5px;
+	}
+
+	.box-btn-one {
+		left: 5px;
+		bottom: 5px;
+	}
+
+	.box-btn-two a {
+		width: 140px;
+		height: 60px;
+		background-size: 100% 100%;
+		font-size: 12px;
+	}
+
+	.box-btn-two {
+		bottom: -20px;
+	}
+
+	.acc-ctn-ctn p {
+		font-size: 12px;
+		padding: 5px 20px;
+	}
+
+	/* Register-step-1 "R" */
+
+	.popup-main .slick-dots li button {
+		width: 40px;
+		height: 29px;
+	}
+
+	.popup-main .popup-main-box .right-section {
+		padding: 70px 20px
+	}
+
+	/* Register-step-2 "R" */
+
+	.popup-main .popup-main-box-two .terms-and-conditions .content {
+		height: 440px;
+	}
+
+	.popup-main .right-section .submit button {
+		font-size: 13px;
+	}
+
+	/* Verification screen "R" */
+
+	.verification-popup .popup-box .main-popup-section {
+		padding: 60px 30px;
+	}
+
+	.verification-popup .popup-box .main-popup-section p {
+		max-width: 100%;
+	}
+
+	.verification-popup .popup-box .main-box-popup .button a {
+		width: 29%;
+		height: 44px;
+		font-size: 11px;
+	}
+
+	.verification-popup .popup-box .main-popup-section:after {
+		right: -51%;
+	}
+
+	.verification-popup .popup-box .main-popup-section:before {
+		left: -51%;
+	}
+
+	.verification-popup .popup-box .main-box-popup .button a:before {
+		width: 51%;
+	}
+
+	.verification-popup .popup-box .main-box-popup .button,
+	.game-screen-popup.popup-main .button {
+		margin-top: -30px;
+	}
+
+	/* Succesfull Verification */
+
+	#successfull-verification.verification-popup .popup-box .main-box-popup .button {
+		margin-top: -19px;
+	}
+
+	/* Link Expired */
+
+	#link-expired.verification-popup .popup-box .main-box-popup .button {
+		margin-top: -22px;
+	}
+
+	/* Customize-Proflie Popup */
+
+	.customize-profile .popup-box {
+		width: 93%;
+		max-width: 96%;
+	}
+
+	.customize-profile .main-box-popup {
+		background-image: url('../images/customize-bg-mobile.png');
+	}
+
+	.customize-profile .main-box-popup:before,
+	.customize-profile .main-box-popup .footer-text h5 {
+		background-image: none;
+	}
+
+	.customize-profile .main-box-popup .footer-text h5 {
+		width: 50%;
+	}
+
+	.customize-profile .main-box-popup .footer-text {
+		bottom: 2px;
+	}
+
+	.customize-profile .main-box-popup .banner-head-ctn h4 {
+		font-size: 22px;
+	}
+
+	.customize-profile .main-box-popup .button:before {
+		background-size: 100% 70%;
+	}
+
+	/* Notification Expanded */
+
+	.popup-main .popup-main-box .close-btn {
+		right: 0;
+	}
+
+	.notification-expanded .today-section .blue-active-shadow {
+		width: 19px;
+	}
+
+	.notification-expanded .today-section .image {
+		height: 40px;
+	}
+
+	.notification-expanded .today-section .box .head-text {
+		margin-left: 50px;
+	}
+
+	.popup-main .popup-main-box {
+		background-image: url('../images/notification-bg-mobile.png');
+	}
+
+	.popup-main.notification-expanded .popup-main-box {
+		max-width: 94%;
+	}
+
+	/* Contact-Us */
+
+	.contact-form {
+		background-image: url('../images/contact-back-mobile.png') !important;
+		padding: 70px 30px 20px;
+	}
+
+	.contect-logo {
+		top: -45px;
+	}
+
+	.inp {
+		background-image: url('../images/inp-back-mobile.png');
+		min-height: 47px;
+	}
+
+	.contact-one {
+		width: 100%;
+	}
+
+	input[type="email"].inp {
+		background-image: url('../images/email-back-mobile.png');
+	}
+
+	.login-btn {
+		bottom: 20px;
+	}
+
+	textarea.inp {
+		padding-top: 20px;
+	}
+
+	.contact-full:before {
+		top: 24px;
+	}
+
+	/* Terms & Condition */
+
+	.terms-main {
+		padding: 40px 12px 20px
+	}
+
+	.terms-main>ol>li h6 {
+		padding-left: 55px;
+	}
+
+	.terms-title h4 {
+		max-width: 86%;
+	}
+
+	.terms-main ol li::marker {
+		font-size: 20px;
+	}
+}
+
+
+@media screen and (max-width:480px) {
+	.game-user-name {
+		bottom: 20px;
+	}
+
+	.game-user-name p {
+		font-size: 10px;
+	}
+
+	.game-name h4 {
+		font-size: 16px;
+	}
+
+	.box-game-image {
+		margin: 5px auto;
+	}
+
+	.box-game-shadow {
+		top: 70px;
+	}
+
+	.box-game-shadow .game-name h4 {
+		font-size: 16px;
+	}
+
+	.game-image img {
+		max-width: 40px;
+		max-height: 40px;
+	}
+
+	.roller-top .sub-box {
+		width: 50px;
+	}
+
+	.high-roller .rollers-score .m-box .sub-box:last-child,
+	.roller-top .sub-box:last-child {
+		min-width: 100px;
+	}
+
+	/* Register-step-1 "R" */
+
+	.popup-main .popup-main-box .left-section .slider img {
+		max-height: 320px;
+	}
+
+	.popup-main .slick-dots li button {
+		width: 29px;
+	}
+
+	.popup-main .slick-dots {
+		bottom: 5px
+	}
+
+	.popup-main .popup-main-box {
+		max-width: 87%;
+		margin: 20px auto 0;
+	}
+
+	.popup-main .popup-main-box .logo-section img {
+		width: 90%;
+	}
+
+	.popup-main .popup-main-box .left-section .text.banner-head-ctn h5 {
+		margin-top: 0
+	}
+
+	.popup-main .popup-main-box .left-section .text.banner-head-ctn h4 span {
+		font-size: 36px;
+	}
+
+	.popup-main .popup-main-box .right-section {
+		padding: 50px 10px;
+	}
+
+	.popup-main .right-section h4 {
+		margin-bottom: 12px
+	}
+
+	.popup-main .right-section .box label,
+	.customize-profile .popup-box label {
+		font-size: 12px;
+		padding-left: 30px;
+	}
+
+	.popup-main .right-section .box input,
+	.popup-main .right-section .box select,
+	.customize-profile .popup-box input {
+		height: 42px;
+		font-size: 10px;
+		padding: 9px 60px 9px 30px;
+	}
+
+	.popup-main .right-section .eye:after,
+	.popup-main .right-section .user:after,
+	.popup-main .right-section .mail:after,
+	.popup-main .right-section .arrow-down:after,
+	.popup-main .right-section .arrow-down-two:after,
+	.customize-profile .main-box-popup .user:after {
+		width: 17px;
+		height: 12px;
+		right: 40px;
+	}
+
+	.popup-main .right-section .username {
+		font-size: 13px !important
+	}
+
+	.popup-main .popup-main-box .right-section .form-section .box {
+		padding: 5px 0;
+	}
+
+	.popup-main .right-section .arrow-down-two:after {
+		bottom: 5px;
+		left: 23%;
+		width: 11px;
+		height: 11px;
+		right: unset;
+	}
+
+	.popup-main .right-section .sub-box input,
+	.popup-main .right-section .sub-box select {
+		padding: 9px 30px !important;
+	}
+
+	.popup-main .right-section .submit button {
+		width: 50%;
+		height: 45px;
+		font-size: 10px;
+	}
+
+	.popup-main .right-section .submit:before {
+		background-size: 120% 70%;
+		background-position: center center;
+		top: 0
+	}
+
+	.popup-main .right-section .social-icon h5 {
+		margin: 14px 0 20px;
+	}
+
+	.popup-main .right-section .social-icon .icons {
+		margin-bottom: 30px;
+	}
+
+	.popup-main .right-section .sub-box select option {
+		padding: 0
+	}
+
+	.popup-main .right-section .submit button:before {
+		height: 190%;
+	}
+
+	/* Register-step-2 "R" */
+
+	.popup-main .popup-main-box-two .terms-and-conditions .text {
+		width: 90%;
+		left: 0;
+		right: 0;
+	}
+
+	.popup-main .popup-main-box-two .terms-and-conditions .title h5 {
+		left: 17px;
+	}
+
+	.popup-main .popup-main-box-two .terms-and-conditions .content {
+		height: 530px;
+	}
+
+	#popup-main-step-2.popup-main .blue-shadow h5 {
+		font-size: 17px;
+	}
+
+	.popup-main .blue-shadow a img {
+		height: 15px;
+	}
+
+	/* Verification screen "R" */
+
+	.verification-popup .popup-box .main-popup-section:before,
+	.verification-popup .popup-box .main-popup-section:after {
+		display: none;
+	}
+
+	.verification-popup .popup-box .main-popup-section {
+		background-image: url('../images/verification-bg-MOBILE.png');
+	}
+
+	.verification-popup .popup-box .main-box-popup .button a {
+		width: 63%;
+	}
+
+	.verification-popup .popup-box .main-popup-section h4 {
+		font-size: 26px;
+	}
+
+	.verification-popup .popup-box .main-box-popup .resend-section h6 {
+		font-size: 14px;
+	}
+
+	/* Link Expired */
+
+	.verification-popup .popup-box .main-popup-section h5 {
+		font-size: 10px;
+	}
+
+	.link-expired .popup-box .main-popup-section h5 {
+		margin: 12px 0;
+	}
+
+	.verification-popup .popup-box .main-box-popup .button,
+	.game-screen-popup.popup-main .button {
+		margin-top: -14px !important
+	}
+
+	/* Customize-Proflie Popup */
+
+	.customize-profile .main-box-popup .main-popup-section {
+		padding: 0 20px;
+	}
+
+	.customize-profile .main-box-popup .button:before {
+		background-size: 150% 70%;
+	}
+
+	/* Notification Expanded */
+
+	.notification-expanded .today-section .image img {
+		width: 48px;
+		height: 32px;
+	}
+
+	.notification-expanded .today-section .box .head-text {
+		margin-left: 40px;
+	}
+
+	.notification-expanded .today-section .sub-box {
+		padding: 10px 18px;
+	}
+
+	.notification-expanded .today-section .box .sub-box .gradient-text h4 {
+		font-size: 11px;
+	}
+
+	.notification-expanded .today-section .box .head-text h5 {
+		width: 90px;
+		font-size: 10px;
+	}
+
+	.notification-expanded .notification-content .sub-box-two h5 {
+		font-size: 10px;
+	}
+
+	.notification-expanded .today-section .box .head-text {
+		padding-bottom: 20px;
+	}
+
+	.notification-expanded .notification-content .sub-box-two p {
+		font-size: 12px;
+	}
+
+	.notification-expanded .notification-content .accept-buttons button {
+		height: 33px;
+		font-size: 10px;
+		padding: 7px 10px;
+		width: 50%;
+	}
+
+	.notification-expanded .today-section .blue-active-shadow {
+		width: 14px;
+	}
+
+	.notification-expanded .today-section .blue-active-shadow img {
+		height: 23px;
+	}
+
+	.notification-expanded .today-section .head h4 {
+		font-size: 11px;
+		height: 38px;
+	}
+
+	.notification-expanded .main-section .check-btn:before {
+		width: 55%;
+	}
+
+	.notification-expanded .login-box .title {
+		font-size: 13px;
+		padding-top: 6px;
+	}
+
+	.notification-expanded .today-section .image {
+		margin-bottom: -20px;
+	}
+
+	.notification-expanded .main-section .notification-all {
+		margin-top: 30px;
+	}
+
+	.notification-expanded.popup-main .popup-main-box .close-btn {
+		width: 18px;
+		height: 18px;
+		top: 0;
+		display: flex;
+	}
+
+	.notification-expanded .sub-box .close-btn {
+		width: 11px !important;
+		height: 11px !important;
+		right: 6px !important;
+		top: 6px !important
+	}
+
+	.notification-expanded .main-section .today-section .box:nth-child(2) .blue-active-shadow img {
+		height: 18px;
+	}
+
+	.notification-expanded.popup-main .popup-main-box {
+		background-size: 100% 120%;
+	}
+
+	.notification-expanded .login-box .title img {
+		width: 14px;
+	}
+
+	.notification-expanded .main-section .check-btn {
+		font-size: 9px;
+	}
+
+	/* Contact-Us */
+
+	.login-btn button {
+		font-size: 11px;
+	}
+
+	.contact-form {
+		max-width: 95%;
+		padding: 70px 10px 20px;
+	}
+
+	.contact-title h3 {
+		font-size: 30px;
+	}
+
+	.contact-page {
+		padding: 20px 0;
+	}
+
+	.contact-title {
+		margin-bottom: 50px;
+	}
+
+	/* Terms & Condition */
+
+	.terms-main>ol>li h6 {
+		padding-left: 45px;
+	}
+
+	.term-cnt {
+		padding: 22px 20px;
+	}
+
+	.Main-right-part {
+		padding: 0 15px;
+	}
+}
